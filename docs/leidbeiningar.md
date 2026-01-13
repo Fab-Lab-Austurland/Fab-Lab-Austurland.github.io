@@ -284,7 +284,7 @@
 
 ## Útsaumur og Inkstitch
 
-Ólöf vann að verkefni í Fab Academy og prófaði sig áfram með ,,Extension" í Inskscape sem kallast Inkstitch. Hún teiknaði mynd af hákarli og prófaði sig áfram með þá teikningu. Hún notaði einnig logo til að sjá hvernig hægt væri að nota ,,Offset" svo útlína væri ekki saumuð yfir fyllingu. Hér eru útskýringar á verkferlinu.
+Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er teiknuð mynd af hákarli. Einnig er unnið með logo til að sjá hvernig hægt er að nota ,,Offset" svo útlína verði ekki saumuð yfir fyllingu. Hér eru útskýringar á verkferlinu.
 
 ### Bæklingur og leiðbeiningar
 
@@ -361,28 +361,19 @@
     
      Næsta skref er að smella á **Extensions**, **Ink/Stitch**, **Tools: satin** og svo **Convert line to satin**.
 
-
-
 !!! info "að vista sem .pes file"
     
     Næst er skráin vistuð sem **.svg** skrá. Þessa skrá er hægt að nota síðar ef það reynist þörf á að breyta hönuninni. Svo er skráin vistuð sem **.pes file**. 
     
-
-
 !!! info ".pes skrá býr til útsaumsferilinn"
     
     Á myndinni hér fyrir neðans sést hvernig .pes skráin bjó til feril fyrir þetta verkefni. Þráðurinn sést vel.
-
-
 
 ### Að festa efnið á ramma
 
 !!! info "Að festa efnið"
     
     Margnota taupoki var notaður í þetta verkefni. Efnið var fest í sérstakan útsaumsramma. Innri hluti útsaumsrammans var lagður innan í taupokann. Svo var bútur af stuðningsefni lagður ofan á rammann, semsagt einnig inni í pokanum. Það er mikilvægt að búturinn af stuðningsefninu sé nógu stór til að geta fallið á milli innri rammans og ytri rammans. Eftir að búið er að stilla af staðsetninguna á innri rammanum+stuðningsefninu er ytri ramminn lagður ofan á efnið og honum þrýst niður þannig að hann falli utan um innri rammann sem er hinum megin við efnið. Svo er skrúfan hert til að halda efninu á sínum stað. Þess er gætt að efnið sé nógu vel strekkt til að hægt sé að banka létt á efnið eins og trommu.
-
-
-
 
 !!! tip "Röðun á lögum ræður röðun á útsaumi"
     
@@ -392,7 +383,7 @@
 
 !!! info "Að nota Offset"
     
-     Þegar ég byrjaði að skrá þetta niður mundi ég ekki hvernig ætti að hópa bókstafi saman á réttan hátt til að geta notað svokallað **Dynamic offset**. Ég fann svar frá einstaklingi, Lazur að nafni, við spurningu á [Inkscape forum](https://alpha.inkscape.org/vectors/www.inkscapeforum.com/viewtopic93da.html?t=15368). Svarið er annað í röðinni ofan frá.
+     Stundum þarf að hópa bókstafi saman á réttan hátt til að geta notað svokallað **Dynamic offset**. Hér eru leiðbeiningar frá einstaklingi, Lazur að nafni, við spurningu á [Inkscape forum](https://alpha.inkscape.org/vectors/www.inkscapeforum.com/viewtopic93da.html?t=15368). Svarið er annað í röðinni ofan frá.
 
      Lazur segir að það sé hægt að nota flýtileiðir. Eftirfarandi skrefum er fylgt:
 
@@ -403,8 +394,6 @@
      - Ýttu á **Ctrl+K** til að sameina ferla
 
      Sérðu pínulitla, bláa demantinn/tígulinn ofarlega í hönnuninni á myndinni hér fyrir neðan? Nú er hægt að grípa hann og draga hann til þannig að hönnunin minnki öll eða stækki (offset).
-
-
 
 ### Flýtileiðir í Inkscape
 
