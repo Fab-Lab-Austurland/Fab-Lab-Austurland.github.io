@@ -280,5 +280,150 @@
     
     Á vefsíðu Fab Lab Ísland er að finna kennslumyndbönd um hvernig hægt sé að umbreyta þrívíddarskrám þannig að módel sé sneitt niður. Smellið [hér](https://fablab.is/fablab-kennsluefni/hugbunadur/sketchup/) til að skoða leiðbeiningar um hvernig hægt er að umbreyta þrívíðum hlut í sneiðar í Slicer for Fusion 360 forritinu. *Höfundur: Vilhjálmur Magnússon.*
 
+## Útsaumsvél
+
+## Útsaumur og Inkstitch
+
+Ólöf vann að verkefni í Fab Academy og prófaði sig áfram með ,,Extension" í Inskscape sem kallast Inkstitch. Hún teiknaði mynd af hákarli og prófaði sig áfram með þá teikningu. Hún notaði einnig logo til að sjá hvernig hægt væri að nota ,,Offset" svo útlína væri ekki saumuð yfir fyllingu. Hér eru útskýringar á verkferlinu.
+
+### Bæklingur og leiðbeiningar
+
+!!! info "Bæklingur fyrir Brother 6-nála útsaumsvél"
+    
+    Fab Lab Austurland á Brother 6-6-nála útsaumsvél. Hér er [bæklingur](https://download.brother.com/welcome/doch102285/884t23_om01en.pdf) fyrir Brother 6-6-nála útsaumsvélina. 
+
+!!! tip "Dropi af olíu áður en unnið er með vélina"
+    
+     Það er mikilvægt að setja dropa af olíu á krókinn áður en neðri tvinninn er settur í. Þetta borgar sig að gera einu sinni á dag þá daga sem á að vinna með vélina, þ.e. áður en verkið hefst.
+
+
+
+!!! info "Niðurhal og leiðbeiningar"
+    
+    Hægt er að sækja Inkstitch extension [hér](https://inkstitch.org/docs/install/). 
+    
+    [Hér](https://www.brother-usa.com/products/pr680w?srsltid=AfmBOooVz6D1Qg1xH7Wp5b3vJmmYAfjZst4mKufn2EUSffsu4XYdvi7v) má finna fleiri upplýsingar og leiðbeiningar um vélina.
+
+### Að útbúa mynd fyrir saumavélina
+
+!!! info "Að útbúa mynd fyrir saumavélina"
+    
+     Byrjaðu á að opna Inkscape. Fylgdu svo leiðbeiningunum [hér](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) í bók eftir Hafey Hallgrímsdóttur um hvernig eigi að búa til límmiða (fyrsta verkefnið í bókinni). Fylgdu öllum leiðbeiningum þar til þú hefur búið til vektor teikningu.
+
+     Hér var pennateikningu notuð en það er líka hægt að nota myndir af netinu.
+     
+     Næst smellir þú á **Hlutur** og svo **Fylling og útlína**, kveiktu á **Fyllingu** og slökktu á **Lit útlínu**.
+     
+     Þú getur valið liti hér en þú munt svo stilla litina endanlega í útsaumsvélinni.
+
+     Smelltu á **Skrá** og **Skráareiginleikar**. Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi**.
+
+
+
+
+!!! info "Búið að aðlaga stærð að innihaldi"
+    
+     Eftir að stærðin hefur verið aðlöguð að innihaldi sést að blaðsíðan passar akkúrat utan um verkefnið.
+
+
+
+
+!!! info "Að skoða stillingar í params"
+    
+    Ef þú smellir á **Extensions**, **Ink/Stitch**, **Params** getur þú skoðað stillingarnar fyrir útsauminn.
+
+
+
+!!! info "Stillingar og forskoðun í params"
+    
+    Í params er meðal annars að finna forskoðun á útsaumsverkinu. Það spilast eins og myndband svo það sést hvernig útsaumurinn fer fram. Þarna er líka hægt að breyta ýmsum stillingum.
+
+
+
+
+!!! info ".pes skrá býr til feril fyrir saumavél"
+    
+    Á myndinni hér fyrir neðan sést hvernig .pes hefur búið til feril fyrir útsaumsvélina. Þarna sést hvernig tvinninn verður lagður niður.
+
+
+
+
+### Að búa til útlínumynd
+
+!!! info "Að búa til útlínumynd fyrir útsaumsvélina"
+    
+     Ef þú vilt búa til útlínumynd getur þú fylgt leiðbeiningunum [hér](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) í bókinni eftir Hafey Hallgrímsdóttur um hvernig eigi að búa til límmiða en þegar þú hefur smellt á **Hlutur** og **Fylling og útlína**, slökkt á **Fylling** og kveikt á **Litur útlínu**....þá, í stað þess að stilla **Stíll útlínu** á 0.02 gerir þú línuna þykkari. Það er gott a miða við að hafa línuna að lágmarki 1.5. Svo getur þú valið lit á línuna en þær stillingar eru svo endanlega gerðar í útsaumsvélinni síðar.
+
+  
+
+
+!!! info "Að nota Convert line to Satin"
+    
+     Næsta skref er að smella á **Extensions**, **Ink/Stitch**, **Tools: satin** og svo **Convert line to satin**.
+
+
+
+!!! info "að vista sem .pes file"
+    
+    Næst er skráin vistuð sem **.svg** skrá. Þessa skrá er hægt að nota síðar ef það reynist þörf á að breyta hönuninni. Svo er skráin vistuð sem **.pes file**. 
+    
+
+
+!!! info ".pes skrá býr til útsaumsferilinn"
+    
+    Á myndinni hér fyrir neðans sést hvernig .pes skráin bjó til feril fyrir þetta verkefni. Þráðurinn sést vel.
+
+
+
+### Að festa efnið á ramma
+
+!!! info "Að festa efnið"
+    
+    Margnota taupoki var notaður í þetta verkefni. Efnið var fest í sérstakan útsaumsramma. Innri hluti útsaumsrammans var lagður innan í taupokann. Svo var bútur af stuðningsefni lagður ofan á rammann, semsagt einnig inni í pokanum. Það er mikilvægt að búturinn af stuðningsefninu sé nógu stór til að geta fallið á milli innri rammans og ytri rammans. Eftir að búið er að stilla af staðsetninguna á innri rammanum+stuðningsefninu er ytri ramminn lagður ofan á efnið og honum þrýst niður þannig að hann falli utan um innri rammann sem er hinum megin við efnið. Svo er skrúfan hert til að halda efninu á sínum stað. Þess er gætt að efnið sé nógu vel strekkt til að hægt sé að banka létt á efnið eins og trommu.
+
+
+
+
+!!! tip "Röðun á lögum ræður röðun á útsaumi"
+    
+    Þegar unnið er með fleiri en einn litaflöt og línur í Inkscape verða til nokkur lög (e. layers) í Inkscape. Það er hægt að stýra því á hvaða litafleti vélin byrjar. Vélin byrjar ávallt á því lagi sem er neðst á listanum í Inkscape og fylgir svo lögunum uppávið. Þetta þýðir að þú getur breytt röðun laganna ef það skiptir máli í hvaða röð saumað er. Dragðu bara lögin til þar til röðunin er eins og óskað er eftir.
+
+### Að nota Offset
+
+!!! info "Að nota Offset"
+    
+     Þegar ég byrjaði að skrá þetta niður mundi ég ekki hvernig ætti að hópa bókstafi saman á réttan hátt til að geta notað svokallað **Dynamic offset**. Ég fann svar frá einstaklingi, Lazur að nafni, við spurningu á [Inkscape forum](https://alpha.inkscape.org/vectors/www.inkscapeforum.com/viewtopic93da.html?t=15368). Svarið er annað í röðinni ofan frá.
+
+     Lazur segir að það sé hægt að nota flýtileiðir. Eftirfarandi skrefum er fylgt:
+
+     - Ýttu á **Shift+Ctrl+C** til að breyta texta í feril
+
+     - Ýttu á **Shift+Ctrl+G** til að ferlarnir verði saman í hópi
+
+     - Ýttu á **Ctrl+K** til að sameina ferla
+
+     Sérðu pínulitla, bláa demantinn/tígulinn ofarlega í hönnuninni á myndinni hér fyrir neðan? Nú er hægt að grípa hann og draga hann til þannig að hönnunin minnki öll eða stækki (offset).
+
+
+
+### Flýtileiðir í Inkscape
+
+!!! tip "Flýtileiðir í Inkscape"
+    
+     [Hér](https://inkscape.org/doc/keys091.html) er að finna lista yfir allar flýtileiðir í Inkscape.
+
+### Að jafna og dreifa
+
+!!! info "Að jafna og dreifa"
+    
+     Ýttu á **Shift+Ctrl+G** til að ná öllum útlínuformunum saman í hóp. Veldu svo öll form í skjalinu með því að vinstrismella á músina og draga hana yfir allt. Svo er smellt á **Hlutur** og svo **Jafna og dreifa**.
+
+
+!!! info "Jöfnun og dreifing framkvæmd"
+    
+     Svo er smellt á táknin fyrir það að jafna á x-ás og y-ás. Þá er búið að staðsetja þau jafnt saman.
+
+
+
 
 
