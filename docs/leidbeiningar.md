@@ -304,6 +304,15 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
     
     [Hér](https://www.brother-usa.com/products/pr680w?srsltid=AfmBOooVz6D1Qg1xH7Wp5b3vJmmYAfjZst4mKufn2EUSffsu4XYdvi7v) má finna fleiri upplýsingar og leiðbeiningar um vélina.
 
+### Kennslumyndbönd
+
+!!! info "Að útbúa mynd fyrir saumavélina"
+    
+     Grunnleiðbeiningar [hér](https://www.youtube.com/watch?v=W7u4mPaRjIs).
+     Leiðbeiningar fyrir fyllt svæði [hér](https://www.youtube.com/watch?v=a3-qerPiJy4).
+     Leiðbeiningar fyrir línur (satin stitch) [hér](https://www.youtube.com/watch?v=Sqy_QTgPYH4).
+
+
 ### Að útbúa mynd fyrir saumavélina
 
 !!! info "Að útbúa mynd fyrir saumavélina"
