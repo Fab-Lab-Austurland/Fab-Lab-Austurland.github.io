@@ -73,6 +73,7 @@ markdown_extensions:
 nav:
 - Heim: index.md
 - Um smiðjuna: um_smidjuna.md
+- Verðskrá: verdskra.md
 - Leiðbeiningar: leidbeiningar.md
 - 9. bekkur: 9bekkur.md
 - 10. bekkur: 10bekkur.md
