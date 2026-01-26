@@ -416,12 +416,17 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
     
      Ýttu á **Shift+Ctrl+G** til að ná öllum útlínuformunum saman í hóp. Veldu svo öll form í skjalinu með því að vinstrismella á músina og draga hana yfir allt. Svo er smellt á **Hlutur** og svo **Jafna og dreifa**.
 
-
 !!! info "Jöfnun og dreifing framkvæmd"
     
      Svo er smellt á táknin fyrir það að jafna á x-ás og y-ás. Þá er búið að staðsetja þau jafnt saman.
 
+### Kom upp vandamál?
 
+!!! info "Svör við ýmsum vandamálum"
+    
+    [Hér](https://support.brother.com/g/b/faqtop.aspx?c=us_ot&lang=en&prod=hf_pr680weus) má finna svör við ýmsum vandamálum sem geta komið upp við notkun útsaumsvélarinnar.
 
-
+!!! info "Svör við ýmsum vandamálum"
+    
+     Ef tvinninn slitnar endurtekið gæti lausnin fundist [hér](https://support.brother.com/g/b/faqend.aspx?c=us&lang=en&prod=hf_pr1050xeus&faqid=faqh00000318_002).
 
