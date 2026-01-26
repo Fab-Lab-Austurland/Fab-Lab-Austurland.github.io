@@ -176,6 +176,25 @@
 
     **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
 
+### 3 - Fatalímmiði
+
+!!! Example "Leiðbeiningar"
+    
+    Fatalímmiðar eru búnir til með sömu aðferðum og límmiðar nema það þarf að spegla texta og myndum áður en skorið er út í vínylskeranum.
+
+
+
+    Svo er einnig hægt að búa til endurskinsmerki. Hér fyrir neðan má sjá dæmi um það.
+    
+    ![ ](img_leidbeiningar/Endurskinsmerki_husky600x600.jpg)
+
+!!! Example "Leiðbeiningar um gerð fatalímmiða"
+    
+    Smelltu [hér](https://1b1b4ded-19ea-40be-a62c-dedafc37e7fe.filesusr.com/ugd/0ebced_54564a0e5c5747d6830468d2538f045b.pdf) til að skoða leiðbeiningar um hvernig hægt er að búa til fatalímmiða. *Höfundar: Hafey Viktoría Hallgrímsdóttir.*
+
+!!! Example "Myndbönd um gerð fatalímmiða"
+    
+    Smelltu [hér](https://www.fabmennt.com/myndbondvinyl?wix-vod-video-id=b724cff07d044bd5a87b5d8a051c8047&wix-vod-comp-id=comp-l0290nvu) til að skoða kennslumyndband um hvernig hægt er að búa til fatalímmiða. *Höfundar: Andri Sæmundsson.*
 
 #### Að búa til mynstur (límmiðar/fatalímmiðar og fleira)
 
