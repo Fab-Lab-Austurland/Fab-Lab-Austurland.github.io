@@ -180,9 +180,9 @@
 
 !!! Example "Leiðbeiningar"
     
-    Fatalímmiðar eru búnir til með sömu aðferðum og límmiðar nema það þarf að spegla texta og myndum áður en skorið er út í vínylskeranum.
+    Fatalímmiðar eru búnir til með sömu aðferðum og límmiðar nema það þarf að spegla texta og myndum áður en skorið er út í vínylskeranum. Þið getið skoðað hugmyndir [hér](https://www.pinterest.com/hannesdttir/l%C3%ADmmi%C3%B0ar/). 
 
-
+    ![ ](img_framhaldsskoli/Fatalimmidar600x332.jpg)
 
     Svo er einnig hægt að búa til endurskinsmerki. Hér fyrir neðan má sjá dæmi um það.
     
