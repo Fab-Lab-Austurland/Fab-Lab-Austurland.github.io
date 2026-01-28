@@ -367,11 +367,9 @@
 
 ## 4 - Tinkercad
 
-!!! Info "Að fara inn á Tinkercad"
+!!! Info "Tinkercad verkefni"
 
-    Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/JCPMNN5DA). Smellið á græna hnappinn (join with login code) og skrifið notendanafnið ykkar. Notendanafnið er nafnið ykkar - allt með lágstöfum (litlum stöfum) og þið eigið að nota íslenska stafi. Ef þið heitið tveimur nöfnum eða fleiri eigið þið bara að nota fyrsta nafnið.
-
-    Veljið svo eitt af verkefnunum hér fyrir neðan:
+    Veljið eitt af verkefnunum hér fyrir neðan:
 
 ### Kennslumyndband - 
 
