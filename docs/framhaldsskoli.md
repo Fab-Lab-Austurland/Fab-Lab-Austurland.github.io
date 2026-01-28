@@ -379,7 +379,6 @@
 
     ![ ](img_framhaldsskoli/FABL1_YouTube_Tinkercad_bill600x344.jpg)
 
-
 ### Kennslumyndband - Star Wars Tie Fighter
 
 !!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til Star Wars Tie Fighter"
@@ -388,7 +387,13 @@
 
     ![ ](img_framhaldsskoli/FABL1_YouTube_StarWarsTieFighter_Tinkercad600x381.jpg)
 
+### Kennslumyndband - Bráðnaðir frostpinnar
 
+!!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til bráðnaða frostpinna"
+
+    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=RrwELCh52us). 
+
+    ![ ](img_framhaldsskoli/FABL1_YouTube_MeltingPopsicle600x378.jpg)
 
 ## FABL2GR05
 
