@@ -365,6 +365,21 @@
 
     ![ ](img_grunnskolar/LitirFormSaman348x300.jpg)
 
+## 4 - Tinkercad
+
+!!! Info "Að fara inn á Tinkercad"
+
+    Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/DA2REYMTH). Smellið á græna hnappinn (join with login code) og skrifið notendanafnið ykkar. Notendanafnið er nafnið ykkar og eftirnafnið - allt með lágstöfum (litlum stöfum) og ekkert bil á milli nafnanna. Ef þið heitið tveimur nöfnum eða fleirum eigið þið bara að nota fyrsta nafnið og svo eftirnafnið.
+
+    Veljið svo eitt af verkefnunum hér fyrir neðan:
+
+### Kennslumyndband - 
+
+!!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til ------"
+
+    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=5SBwd5mZFA8). 
+
+
 
 ## FABL2GR05
 
