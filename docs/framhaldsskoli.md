@@ -371,13 +371,13 @@
 
     Veljið eitt af verkefnunum hér fyrir neðan:
 
-### Kennslumyndband - 
+### Kennslumyndband - bíll
 
-!!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til ------"
+!!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til bíl"
 
-    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=5SBwd5mZFA8). 
+    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=2kxz7didxbc&list=PL_lCWSMS2Py_HUTgWf9RVKJb8p6fBjW32). 
 
-
+    ![ ](img_framhaldsskoli/FABL1_YouTube_Tinkercad_bill600x344.jpg)
 
 ## FABL2GR05
 
