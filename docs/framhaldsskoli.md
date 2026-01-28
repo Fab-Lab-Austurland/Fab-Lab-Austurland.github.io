@@ -395,6 +395,24 @@
 
     ![ ](img_framhaldsskoli/FABL1_YouTube_MeltingPopsicle600x378.jpg)
 
+### Kennslumyndband - Völundarhús/byrjun
+
+!!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til völundarhús"
+
+    Athugið að þið getið notað **CTRL+D** til að tvöfalda veggi innan í völundarhúsinu og breytt svo löguninni. Þið getið annað hvort gert holu í botninn þar sem kúlan á að enda eða gert gat í útvegginn.
+    
+    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=BJXbw9-k8Fw). 
+
+    ![ ](img_framhaldsskoli/FABL1_YouTube_MazeByrjendur600x335.jpg)
+
+### Kennslumyndband - Völundarhús/flóknara
+
+!!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til flóknara völundarhús"
+
+    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=TSNoGg1K4LY). 
+
+    ![ ](img_framhaldsskoli/FABL1_YouTube_MazeFloknara600x384.jpg)
+
 ## FABL2GR05
 
 ### Að búa til mynstur (límmiðar/fatalímmiðar og fleira)
