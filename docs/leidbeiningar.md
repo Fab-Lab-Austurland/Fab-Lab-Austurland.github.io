@@ -420,6 +420,13 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
     
      Svo er smellt á táknin fyrir það að jafna á x-ás og y-ás. Þá er búið að staðsetja þau jafnt saman.
 
+### Að nota ramma fyrir derhúfur
+
+!!! tip "Myndband"
+    
+     [Hér](https://www.youtube.com/watch?v=d8JziC--5_8) er myndband sem sýnir hvernig ramminn fyrir derhúfur er notaður.
+
+
 ### Kom upp vandamál?
 
 !!! info "Svör við ýmsum vandamálum"

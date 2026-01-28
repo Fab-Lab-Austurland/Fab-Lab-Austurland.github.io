@@ -62,4 +62,8 @@
 
     Blekið í BN-20A prentaranum er ECO-SOL MAX 3. Sjá nánari upplýsingar [hér](https://www.rolanddg.eu/en/products/inks/eco-sol-max).
 
+
+
+
+
     
