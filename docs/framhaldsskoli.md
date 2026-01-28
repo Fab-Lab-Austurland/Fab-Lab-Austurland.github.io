@@ -379,6 +379,17 @@
 
     ![ ](img_framhaldsskoli/FABL1_YouTube_Tinkercad_bill600x344.jpg)
 
+
+### Kennslumyndband - Star Wars Tie Fighter
+
+!!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til Star Wars Tie Fighter"
+
+    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=t2kNYBLz3gw). 
+
+    ![ ](img_framhaldsskoli/FABL1_YouTube_StarWarsTieFighter_Tinkercad600x381.jpg)
+
+
+
 ## FABL2GR05
 
 ### Að búa til mynstur (límmiðar/fatalímmiðar og fleira)
