@@ -413,6 +413,15 @@
 
     ![ ](img_framhaldsskoli/FABL1_YouTube_MazeFloknara600x384.jpg)
 
+
+### Kennslumyndband - Hjartabox
+
+!!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til hjartalaga box"
+
+    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=9h7oXrpuxrg). 
+
+    ![ ](img_framhaldsskoli/FABL1_YouTube_Hjartabox600x342.jpg)
+
 ## FABL2GR05
 
 ### Að búa til mynstur (límmiðar/fatalímmiðar og fleira)
