@@ -17,7 +17,7 @@ Verið velkomin á heimasíðu Fab Lab Austurlands
 
 ## Staðsetning smiðjunnar
 
-!!! info "Að mæta í smiðjuna"
+!!! tip "Að mæta í smiðjuna"
     
      Smiðjan er staðsett á annarri hæð í verknámshúsi Verkmenntaskóla Austurlands.
 
