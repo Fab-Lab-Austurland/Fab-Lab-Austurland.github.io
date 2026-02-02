@@ -13,7 +13,7 @@ Verið velkomin á heimasíðu Fab Lab Austurlands
 ## Dagatal smiðjunnar
 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=fablabausturland%40gmail.com&ctz=Atlantic%2FReykjavik" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Atlantic%2FReykjavik&showPrint=0&src=ZmFibGFiYXVzdHVybGFuZEBnbWFpbC5jb20&src=ZWFwMG52ZjdzZm9sMWozb2NmbzU5dW5kbG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=OXFxdm00ZTRjMTAza3R2ODE3ZHI4NmdwbW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=bXZuMTFpZWk5cXBucm5xY24ydmxhZ3RkazBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=dDZlMmo4b2tnYXNzdm1hazZsaWNyYjh2bzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237986cb&color=%23d50000&color=%23f09300&color=%23e4c441&color=%23d81b60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Staðsetning smiðjunnar
 
