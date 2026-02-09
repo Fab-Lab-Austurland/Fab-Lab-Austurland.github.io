@@ -426,9 +426,9 @@
 
 !!! Example "Smáhlutur skorinn og rasteraður"
     
-    Búðu til smáhlut í laser. Það getur verið lyklakippa, glasamotta eða annað svipað.
+    Búðu til smáhlut í laser. Það getur verið lyklakippa, glasamotta, eyrnalokkar eða annað svipað.
 
-    ![ ](img_framhaldsskoli/FABL1_275x206.jpg)  ![ ](img_framhaldsskoli/FABL1_275x206rautt.jpg)  [ ](img_framhaldsskoli/FABL1_Eyrnalokkar_275x206.jpg)
+    ![ ](img_framhaldsskoli/FABL1_275x206.jpg)  ![ ](img_framhaldsskoli/FABL1_Eyrnalokkar_275x206.jpg)
 
 ### Skriflegar leiðbeiningar
 
