@@ -422,6 +422,19 @@
 
     ![ ](img_framhaldsskoli/FABL1_YouTube_Hjartabox600x342.jpg)
 
+## 5 - Smáhlutur búinn til í laser (geislaskera) 
+
+Búðu til smáhlut í laser. Það getur verið lyklakippa, glasamotta eða annað svipað.
+
+!!! Example "Leiðbeiningar um gerð glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira"
+    
+    Smelltu [hér](https://www.fabmennt.com/leidbeiningargeisla) til að skoða leiðbeiningar um hvernig hægt er að búa til glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira. *Höfundar: Hafey Viktoría Hallgrímsdóttir og Þóra Óskarsdóttir.*
+
+!!! Example "Myndbönd um gerð glasamottu, lyklakippu, jólaskrauts og fleira"
+    
+    Smelltu [hér](https://www.fabmennt.com/myndbondgeisla) til að skoða kennslumyndbönd um hvernig hægt er að búa til glasamottu, lyklakippu, jólaskraut, kassa og fleira. *Höfundur: Andri Sæmundsson.*
+
+
 ## FABL2GR05
 
 ### Að búa til mynstur (límmiðar/fatalímmiðar og fleira)
