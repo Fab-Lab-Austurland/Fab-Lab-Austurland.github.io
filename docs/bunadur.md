@@ -65,6 +65,8 @@
 
 ## ShopBot
 
+![ ](img_shopbot/Shopbot_TheMachine_800x600.jpg)
+
 !!! info "Um Shopbot fræsinn"
   
      Við erum með ShopBot PRS-alpha tölvustýrðan fræsi með 1440 x 2190 x 150 mm vinnusvæði. Þú getur lesið bækling um ShopBot fræsinn [hér](https://shopbottools.com/wp-content/uploads/2024/01/SBG-00142-User-Guide-20150317.pdf). Í bæklingnum er tekið fram að til að ná fram gæðaskurði er mikilvægt að velja réttan hraða fyrir hvern skurð (feed rate) og snúning á spindli/RPM. Talað er um **Move speed** þegar verið er að skera eða fræsa efni, eða **Feed rate**. Talað er um **Jog speed** þegar tækið hreyfist en er ekki að fræsa eða skera efni. Í bæklingnum er vísað í vefsíðuna [Onsrud.com](https://www.onsrud.com/) fyrir nánari upplýsingar um viðeigandi stillingar. 
@@ -114,40 +116,38 @@
 
 !!! info "Dogbones og T-bones"
 
-    Í Vcarve you can click on the icon for fillets and add dogbones to corners. After choosing which type of bone you want, you have to click on each corner to add the bone.
+    Í Vcarve er hægt að nota svokölluð **Dogbones eða T-bones** til að fræsa göt sem auðvelda samsetningu. Þá er smellt á táknið fyrir **Fillets** og bæta Dogbones eða T-bones við götin. Þegar búið er að velja hvaða gerð þú vilt nota þarf að smella á hvert einasta horn til að bæta þeim við.
 
 
 
 
-!!! info "Settings for toolpath"
+!!! info "Stillingar fyrir toolpath"
 
     Before performing the job you have to adjust many settings. You can see that the starting depth was 0.0mm. The thickness of the material varied from around 11.9mm to 12.1mm so I set the cutting depth to 12.3mm and hoped for the best. The path was set on the outside of the toolpath. I added tabs and ramps to toolpath, but I took the screenshot before that, so it doesn't show on the image. Tabs are very important to keep all parts in place so that they would not start flying around when they were cut out.
 
 
 
+![ ](img_shopbot/Shopbot_Tool600x521.jpg)
+
+
+
+
+![ ](img_shopbot/ShopbotSavingToolpaths.jpg)
+
+
 ### Að nota ShopBot fræsinn
 
-!!! info "The ShopBot"
-    
-    
-    
-    Following is a description of how to turn on and operate the ShopBot.
-
-
-
-#### Turning the ShopBot on
-
-!!! info "Turn on the ShopBot"
+!!! info "Að kveikja á ShopBot fræsinum"
     
     You begin by using this button to turn the ShopBot on.
 
-
+    ![ ](img_shopbot/ShopbotOnOffButton400x300.jpg)
 
 !!! info "Press the Reset button"
     
     Then you press the blue **Reset button**.
 
-
+    ![ ](img_shopbot/Shopbot_EmergencyButton800x600.jpg)
 
 !!! info "Open the ShopBot program"
     
@@ -181,7 +181,7 @@
 
     Choose **Cut** and then **Spindle warmup routine**. In the image below you can see the window that pops up. You begin by pushing the **Start button** which is beside the Reset button (that you pushed in the beginning). Then you click on the **OK** on the screen. Now the machine goes through the routine.
 
-
+    ![ ](img_shopbot/ShopbotWarmupRoutine1000x434.JPG)
 
 
 !!! info "Changing the tool"
@@ -204,7 +204,7 @@
 
     Move the tool to the point over your material where you want the zero point to be. Make sure that it is the same X- and Y- point that you used in job setup in VCarve. Click on the small blue button on the Yellow keypad, marked as **Zero axis**. Then you put a checkmark in the boxes in front of the X- and Y- axis (NOT the z-axis!). Then you click on **Zero**.
 
-
+    ![ ](img_shopbot/Shopbot_ZeroingTheXYaxis_477x800.jpg)
 
 #### Zeroing the Z-axis
 
@@ -212,7 +212,7 @@
 
     Here you can see the alligator clip that is used to zero the Z-axis. 
 
-
+    ![ ](img_shopbot/Shopbot_AlligatorClip800x600.jpg)
 
 !!! info
 
