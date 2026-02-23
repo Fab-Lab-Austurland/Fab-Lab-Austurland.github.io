@@ -78,9 +78,9 @@
   
     Yfirleitt notum við forritin Fusion 360 og VCarve til að hanna og undirbúa skjöl. 
 
-#### Skjal hannað í Fusion 360 opnað í VCarve
+### VCarve
 
-!!! info ".dxf skjöl"
+!!! info "Skjal hannað í Fusion 360 opnað í VCarve"
   
     Hægt er að flytja skjal út úr Fusion 360 sem .dxf og flytja það inn í VCarve.   
 
@@ -88,28 +88,44 @@
 
 !!! info "Job size"
   
-    Eftir að .dxf skjal hefur verið flutt inn í VCarve er byrjað á að setja upp verkefnið undir **Job setup**. Stærð vinnusvæðisins er stillt. Þetta svæði á að vera stærra en svæðið sem verður skorið/fræst. Þetta getur t.d. verið stærð efnisins sem notað verður, nema efnið sé mikið stærra. Þá getur hugsanlega verið hentugt að stilla vinnusvæðið 10mm stærra á lengd og breidd (eða meira). 
-
-    Athugið að mikilvægt er að mæla og skrá alltaf rétta þykkt efnis.
-
-    **X og Y = lengd og breidd efnis**
-    **Z = þykkt efnis**
+    Eftir að .dxf skjal hefur verið flutt inn í VCarve er byrjað á að setja upp verkefnið undir **Job setup**. 
     
+    * Stærð vinnusvæðisins er stillt. Þetta svæði á að vera stærra en svæðið sem verður skorið/fræst. Þetta getur t.d. verið stærð efnisins sem notað verður, nema efnið sé mikið stærra. Þá getur hugsanlega verið hentugt að stilla vinnusvæðið 10mm stærra á lengd og breidd (eða meira). 
 
+!!! info inline end "Job size"
+  
+    **Ein eða tvær hliðar**
 
-
-    Undir því er meðal annars stillt hversu þykkt efnið er og hvort það eigi að vinna með eina hlið eða tvær hliðar. 
+    * Veldu hvort þú ætlar að fræsa eina hlið eða tvær á hönnuninni.
     
-    Then you decide if you want to set the top of the material as a beginning point (z-zero position) or if you want to use the machine bed as z-zero position. I chose the machine bed as a zero point for the z-axis because the material I was using was very uneven. Then I chose the xy-zero point.
+    **Stærð og þykkt efnis**
+
+    * Athugið að mikilvægt er að mæla og skrá alltaf rétta þykkt efnis.
+
+    * X og Y = lengd og breidd efnis
+
+    * Z = þykkt efnis
+
+    **Sjá nánar um Z zero og XY hér neðar**
+
+    **Útlit (Appearance)**
+
+    * Þú getur valið útlit efnisins undir Appearance. Hér er MDF valið.
+
+![ ](img_shopbot/Shopbot_Skilti_Prefab_JobSetup230x613.png)
 
 
 !!! warning "Z Zero position"
 
-    Afar mikilvægt er að stilla Z zero position rétt. Annars er hætta á að árekstur verði eða að fræsibiti brotni. Skoðið því vel hvort upphafspunktur á að vera á yfirborði efnisins eða á yfirborði ShopBot fræsivélarinnar.
+    Afar mikilvægt er að stilla Z zero position rétt. Annars er hætta á að árekstur verði eða að fræsibiti brotni. Skoðið því vel hvort upphafspunktur á að vera á yfirborði efnisins eða á yfirborði ShopBot fræsivélarinnar. Hér er Z zero position stillt á yfirborð efnisins.
+
+    ![ ](img_shopbot/Shopbot_Skilti_Prefab_Zz_230x88.png)
 
 !!! warning "XY Datum position"
 
     Jafn mikilvægt er að vita hvar upphafspunktur X og Y er. **Upphafspunkturinn er alltaf neðst í vinstra horni.** 
+
+     ![ ](img_shopbot/Shopbot_Skilti_Prefab_XY_230x99.png)
 
     Undantekning frá þessu getur verið ef unnið er með fræsingu út frá miðju í hring.
 
@@ -125,7 +141,16 @@
 
 !!! info "Stillingar fyrir toolpath"
 
-    Before performing the job you have to adjust many settings. You can see that the starting depth was 0.0mm. The thickness of the material varied from around 11.9mm to 12.1mm so I set the cutting depth to 12.3mm and hoped for the best. The path was set on the outside of the toolpath. I added tabs and ramps to toolpath, but I took the screenshot before that, so it doesn't show on the image. Tabs are very important to keep all parts in place so that they would not start flying around when they were cut out.
+    Hér er dæmi um hvernig upphafsdýptin var stillt á 0.0mm. Þykktin á efninu var um 12.1mm svo skurðardýptin var stillt á 12.3mm til að fara örugglega í gegnum efnið. Ferillinn var stilltur þannig að fræsitönnin myndi fræsa fyrir utan hönnunina. 
+    
+    Athugið! Mikilvægt er að bæta við töppum með því að haka við **Add tabs to toolpath**. Þessir tappar tryggja að hlutir fari ekki á fleygiferð þegar þeir eru fræstir.
+
+
+![ ](img_shopbot/Shopbot_ToolpathsStillingar_298x800.jpg)
+
+!!! info "Að velja fræsibita"
+
+    Fræsibitar...
 
 
 
@@ -151,7 +176,7 @@
     
     Næsta skref er að ýta á bláa **Reset hnappinn**.
 
-    ![ ](img_shopbot/Shopbot_EmergencyButton800x600.jpg)
+    ![ ](img_shopbot/Shopbot_EmergencyButton500x376.jpg)
 
 !!! info "Að opna ShopBot forritið"
     
@@ -194,11 +219,12 @@
 
     Smelltu á **Cut** og svo **Spindle warmup routine**. Á myndinni fyrir neðan sérðu gluggann sem opnast. Smelltu á græna **Start hnappinn**. 
     
-    ![ ](img_shopbot/Shopbot_EmergencyButton800x600.jpg)
+    ![ ](img_shopbot/Shopbot_EmergencyButton500x376.jpg)
     
     Smelltu svo á **OK** á skjánum. Þá fer fræsivélin í gegnum upphitunarferlið.
 
     ![ ](img_shopbot/ShopbotWarmupRoutine1000x434.JPG)
+
 
 
 !!! info "Að skipta um fræsitönn"
@@ -212,18 +238,14 @@
     * Notaðu skiptilykil og tólið sem var fest við ShopBotinn með lykli.
 
     ![ ](img_shopbot/Shopbot_ToolWithKeyForSafetyReasons800x600.jpg)
+ 
+    ![ ](img_shopbot/Shopbot_SkiptUmFraesitonn_800x600.jpg)
 
-   
 !!! info "Notaðu rétta collettu"
 
     Stykkið sem fræsitönnin fer í kallast **Collet**. Þessi stykki eru til í mismunandi stærðum og því er mikilvægt að velja stærð sem passar utan um fræsitönnina sem á að nota.
 
     Áður en fræsitönnin er fest í þarf að banka collettunni aðeins í borðið og blása inn í hana til að tryggja að ekkert sag sé í henni. Annars er hætta á að hún herðist ekki nógu vel utan um fræsitönnina.
-
-!!! info "Tools"
-
-    Here below you can see the dust collection skirt, the collet wrench, the wrench and the endmill in the collet.   
-
 
 
 #### Zeroing the X- and Y-axis
