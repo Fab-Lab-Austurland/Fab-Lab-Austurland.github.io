@@ -69,12 +69,12 @@
 
 !!! info "Um Shopbot fræsinn"
   
-     Við erum með ShopBot PRS-alpha tölvustýrðan fræsi með 1440 x 2190 x 150 mm vinnusvæði. Þú getur lesið bækling um ShopBot fræsinn [hér](https://shopbottools.com/wp-content/uploads/2024/01/SBG-00142-User-Guide-20150317.pdf). Í bæklingnum er tekið fram að til að ná fram gæðaskurði er mikilvægt að velja réttan hraða fyrir hvern skurð (feed rate) og snúning á spindli/RPM. Talað er um **Move speed** þegar verið er að skera eða fræsa efni, eða **Feed rate**. Talað er um **Jog speed** þegar tækið hreyfist en er ekki að fræsa eða skera efni. Í bæklingnum er vísað í vefsíðuna [Onsrud.com](https://www.onsrud.com/) fyrir nánari upplýsingar um viðeigandi stillingar. 
+     Við erum með ShopBot PRS-alpha tölvustýrðan fræsi með 1440 x 2190 x 150 mm vinnusvæði. Hægt er að lesa bækling um ShopBot fræsinn [hér](https://shopbottools.com/wp-content/uploads/2024/01/SBG-00142-User-Guide-20150317.pdf). Í bæklingnum er tekið fram að til að ná fram gæðaskurði er mikilvægt að velja réttan hraða fyrir hvern skurð (feed rate) og snúning á spindli/RPM. Talað er um **Move speed** þegar verið er að skera eða fræsa efni, eða **Feed rate**. Talað er um **Jog speed** þegar tækið hreyfist en er ekki að fræsa eða skera efni. Í bæklingnum er vísað í vefsíðuna [Onsrud.com](https://www.onsrud.com/) fyrir nánari upplýsingar um viðeigandi stillingar. 
 
 
-### VCarve
+### Forrit sem notuð eru til að hanna og undirbúa 
 
-!!! info "VCarve"
+!!! info " Fusion 360 og VCarve"
   
     Yfirleitt notum við forritin Fusion 360 og VCarve til að hanna og undirbúa skjöl. 
 
@@ -113,6 +113,7 @@
 
     Undantekning frá þessu getur verið ef unnið er með fræsingu út frá miðju í hring.
 
+#### Samsetningar - dæmi
 
 !!! info "Dogbones og T-bones"
 
@@ -120,6 +121,7 @@
 
 
 
+#### Fræsibitar og stillingar
 
 !!! info "Stillingar fyrir toolpath"
 
@@ -130,6 +132,8 @@
 ![ ](img_shopbot/Shopbot_Tool600x521.jpg)
 
 
+#### Að vista feril (Toolpath)
+
 
 
 ![ ](img_shopbot/ShopbotSavingToolpaths.jpg)
@@ -139,58 +143,82 @@
 
 !!! info "Að kveikja á ShopBot fræsinum"
     
-    You begin by using this button to turn the ShopBot on.
+    Til að kveikja á ShopBot fræsinum er þessum takka snúið á **On**.
 
     ![ ](img_shopbot/ShopbotOnOffButton400x300.jpg)
 
-!!! info "Press the Reset button"
+!!! info "Næst er ýtt á Reset hnappinn"
     
-    Then you press the blue **Reset button**.
+    Næsta skref er að ýta á bláa **Reset hnappinn**.
 
     ![ ](img_shopbot/Shopbot_EmergencyButton800x600.jpg)
 
-!!! info "Open the ShopBot program"
+!!! info "Að opna ShopBot forritið"
     
-    Click on the icon for the ShopBot program.
+    Smelltu á táknið fyrir ShopBot forritið.
 
-#### Overview of the ShopBot interface
+#### Yfirlit ShopBot forrit/stjórntæki
 
-!!! info "Interface the ShopBot program"
+!!! info "Yfirlit"
     
-    Here you can see the interface of the ShopBot program. 
+    Hér sjást þau forrit/stjórntæki sem notuð eru til að stýra ShopBot fræsinum. 
 
-#### The warmup routine
 
-!!! warning "Important to run a warmup routine"
+
+#### Að hita upp ShopBot fræsinn - Warmup routine
+
+!!! warning "Mikilvægt er að hita upp ShopBot fræsinn"
     
-    Before performing any job in the ShopBot it is important to do a warmup routine. It is also important that you click on **Tools** and then **Spindle control** before doing the warmup. Then this window opens up and there you can see the speed of the spindle.
-
-!!! info inline end "Important to open Spindle control"
-
-    It is important to open up the **Spindle control** under the **Cut**.
+    Áður en ShopBot fræsirinn er notaður er mikilvægt að hita hann upp.
 
 
+!!! warning "Opnið fyrst Spindle control"
 
-!!! info inline end "Opening up the keypad"
+    Athugið! Fyrst þarf að opna **Spindle control** undir **Cut**. Þetta sýnir snúningshraða á spindilsins.
 
-    At this point you need to open up the keypad to be able to move the tool to a safe place while the warmup routine runs. You find the **Show keypad** as a small icon in the Shopbot position window. Then you use the arrow keys to move the tool. Find a place for it where the tool won't touch anything in its surroundings (make sure that it is high enough).
+    ![ ](img_shopbot/Shopbot_SpindleControl249x135.JPG)
 
+!!! info "Að opna stjórnborðið sem færir til fræsihausinn"
 
+    Á þessum tímapunkti þarf að opna stjórnborðið sem notað er til að færa fræsihausinn til og frá. Smellt er á litla, gula táknið.
+    
+    ![ ](img_shopbot/Shopbot_OpeningKeypad_423x788.jpg)
 
-!!! info "The warmup routine"
+!!! info inline end "Að færa fræsihausinn"
+  
+    Örvahnapparnir eru notaðir til að færa fræsihausinn til. Það þarf að staðsetja hann á öruggum stað þar sem hann getur snúist, án þess að rekast í nokkuð, á meðan farið er í gegnum upphitunarferlið. Því er mikilvægt að hann sé hátt fyrir ofan yfirborðið.
 
-    Choose **Cut** and then **Spindle warmup routine**. In the image below you can see the window that pops up. You begin by pushing the **Start button** which is beside the Reset button (that you pushed in the beginning). Then you click on the **OK** on the screen. Now the machine goes through the routine.
+    ![ ](img_shopbot/Shopbot_Keypad257x406.JPG)  
+
+!!! info "Upphitunarferlið (The warmup routine)"
+
+    Smelltu á **Cut** og svo **Spindle warmup routine**. Á myndinni fyrir neðan sérðu gluggann sem opnast. Smelltu á græna **Start hnappinn**. 
+    
+    ![ ](img_shopbot/Shopbot_EmergencyButton800x600.jpg)
+    
+    Smelltu svo á **OK** á skjánum. Þá fer fræsivélin í gegnum upphitunarferlið.
 
     ![ ](img_shopbot/ShopbotWarmupRoutine1000x434.JPG)
 
 
-!!! info "Changing the tool"
+!!! info "Að skipta um fræsitönn"
 
-    After the warmup routine is finished you can change the tool. You could also have changed the tool before the warmup routine. You begin by loosening the screw that holds the dust collection skirt. The screw is on the backside. Then you lower the dust collection skirt. Now you have good access to the tool. To loosen the endmill that is in the collet you have to use a wrench and the Collet wrench that is fastened to the machine with a key. Knock the collet against the table and blow in it, just to make sure that there is no material/dust collected in it.
+    Eftir að upphitunarferlinu er lokið getur þú skipt um fræsitönn. Það má líka skipta um fræsitönn áður en farið er í gegnum upphitunarferlið.
 
-    Note! Make sure that you are using a collet that fits the endmill you are using. 
+    * Losaðu skrúfuna sem heldur plastkraganum föstum á fræsihausnum. Skrúfan er á bakhliðinni. 
+    
+    * Þá er hægt að ýta plastinu neðar til að hafa gott aðgengi að hausnum. 
+
+    * Notaðu skiptilykil og tólið sem var fest við ShopBotinn með lykli.
+
+    ![ ](img_shopbot/Shopbot_ToolWithKeyForSafetyReasons800x600.jpg)
+
    
+!!! info "Notaðu rétta collettu"
 
+    Stykkið sem fræsitönnin fer í kallast **Collet**. Þessi stykki eru til í mismunandi stærðum og því er mikilvægt að velja stærð sem passar utan um fræsitönnina sem á að nota.
+
+    Áður en fræsitönnin er fest í þarf að banka collettunni aðeins í borðið og blása inn í hana til að tryggja að ekkert sag sé í henni. Annars er hætta á að hún herðist ekki nógu vel utan um fræsitönnina.
 
 !!! info "Tools"
 
