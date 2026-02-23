@@ -139,13 +139,15 @@
 
 #### Fræsibitar og stillingar
 
-!!! info inline end "Stillingar fyrir toolpath"
+!!! info "Stillingar fyrir toolpath"
 
-    Hér er dæmi um hvernig upphafsdýptin var stillt á 0.0mm. Þykktin á efninu var um 12.1mm svo skurðardýptin var stillt á 12.3mm til að fara örugglega í gegnum efnið. Ferillinn var stilltur þannig að fræsitönnin myndi fræsa fyrir utan hönnunina. 
+    * Hér er dæmi um hvernig upphafsdýptin var stillt á 0.0mm. Þykktin á efninu var um 12.1mm svo skurðardýptin var stillt á 12.3mm til að fara örugglega í gegnum efnið. 
     
+    * Ferillinn var stilltur þannig að fræsitönnin myndi fræsa fyrir utan hönnunina. 
 
+    * Sjá nánar um Tabs og Ramp neðar.
 
-
+    ![ ](img_shopbot/Shopbot_2DprofileToolpath_600x499.jpg)
 
 !!! info "Tabs"
 
