@@ -63,7 +63,194 @@
     Blekið í BN-20A prentaranum er ECO-SOL MAX 3. Sjá nánari upplýsingar [hér](https://www.rolanddg.eu/en/products/inks/eco-sol-max).
 
 
+## ShopBot
 
+!!! info "Um Shopbot fræsinn"
+  
+     Við erum með ShopBot PRS-alpha tölvustýrðan fræsi með 1440 x 2190 x 150 mm vinnusvæði. Þú getur lesið bækling um ShopBot fræsinn [hér](https://shopbottools.com/wp-content/uploads/2024/01/SBG-00142-User-Guide-20150317.pdf). Í bæklingnum er tekið fram að til að ná fram gæðaskurði er mikilvægt að velja réttan hraða fyrir hvern skurð (feed rate) og snúning á spindli/RPM. Talað er um **Move speed** þegar verið er að skera eða fræsa efni, eða **Feed rate**. Talað er um **Jog speed** þegar tækið hreyfist en er ekki að fræsa eða skera efni. Í bæklingnum er vísað í vefsíðuna [Onsrud.com](https://www.onsrud.com/) fyrir nánari upplýsingar um viðeigandi stillingar. 
+
+
+### VCarve
+
+!!! info "VCarve"
+  
+    Yfirleitt notum við forritin Fusion 360 og VCarve til að hanna og undirbúa skjöl. 
+
+#### Skjal hannað í Fusion 360 opnað í VCarve
+
+!!! info ".dxf skjöl"
+  
+    Hægt er að flytja skjal út úr Fusion 360 sem .dxf og flytja það inn í VCarve.   
+
+#### Að setja upp verkefni í VCarve
+
+!!! info "Job size"
+  
+    Eftir að .dxf skjal hefur verið flutt inn í VCarve er byrjað á að setja upp verkefnið undir **Job setup**. Stærð vinnusvæðisins er stillt. Þetta svæði á að vera stærra en svæðið sem verður skorið/fræst. Þetta getur t.d. verið stærð efnisins sem notað verður, nema efnið sé mikið stærra. Þá getur hugsanlega verið hentugt að stilla vinnusvæðið 10mm stærra á lengd og breidd (eða meira). 
+
+    Athugið að mikilvægt er að mæla og skrá alltaf rétta þykkt efnis.
+
+    **X og Y = lengd og breidd efnis**
+    **Z = þykkt efnis**
+    
+
+
+
+    Undir því er meðal annars stillt hversu þykkt efnið er og hvort það eigi að vinna með eina hlið eða tvær hliðar. 
+    
+    Then you decide if you want to set the top of the material as a beginning point (z-zero position) or if you want to use the machine bed as z-zero position. I chose the machine bed as a zero point for the z-axis because the material I was using was very uneven. Then I chose the xy-zero point.
+
+
+!!! warning "Z Zero position"
+
+    Afar mikilvægt er að stilla Z zero position rétt. Annars er hætta á að árekstur verði eða að fræsibiti brotni. Skoðið því vel hvort upphafspunktur á að vera á yfirborði efnisins eða á yfirborði ShopBot fræsivélarinnar.
+
+!!! warning "XY Datum position"
+
+    Jafn mikilvægt er að vita hvar upphafspunktur X og Y er. **Upphafspunkturinn er alltaf neðst í vinstra horni.** 
+
+    Undantekning frá þessu getur verið ef unnið er með fræsingu út frá miðju í hring.
+
+
+!!! info "Dogbones og T-bones"
+
+    Í Vcarve you can click on the icon for fillets and add dogbones to corners. After choosing which type of bone you want, you have to click on each corner to add the bone.
+
+
+
+
+!!! info "Settings for toolpath"
+
+    Before performing the job you have to adjust many settings. You can see that the starting depth was 0.0mm. The thickness of the material varied from around 11.9mm to 12.1mm so I set the cutting depth to 12.3mm and hoped for the best. The path was set on the outside of the toolpath. I added tabs and ramps to toolpath, but I took the screenshot before that, so it doesn't show on the image. Tabs are very important to keep all parts in place so that they would not start flying around when they were cut out.
+
+
+
+### Að nota ShopBot fræsinn
+
+!!! info "The ShopBot"
+    
+    
+    
+    Following is a description of how to turn on and operate the ShopBot.
+
+
+
+#### Turning the ShopBot on
+
+!!! info "Turn on the ShopBot"
+    
+    You begin by using this button to turn the ShopBot on.
+
+
+
+!!! info "Press the Reset button"
+    
+    Then you press the blue **Reset button**.
+
+
+
+!!! info "Open the ShopBot program"
+    
+    Click on the icon for the ShopBot program.
+
+#### Overview of the ShopBot interface
+
+!!! info "Interface the ShopBot program"
+    
+    Here you can see the interface of the ShopBot program. 
+
+#### The warmup routine
+
+!!! warning "Important to run a warmup routine"
+    
+    Before performing any job in the ShopBot it is important to do a warmup routine. It is also important that you click on **Tools** and then **Spindle control** before doing the warmup. Then this window opens up and there you can see the speed of the spindle.
+
+!!! info inline end "Important to open Spindle control"
+
+    It is important to open up the **Spindle control** under the **Cut**.
+
+
+
+!!! info inline end "Opening up the keypad"
+
+    At this point you need to open up the keypad to be able to move the tool to a safe place while the warmup routine runs. You find the **Show keypad** as a small icon in the Shopbot position window. Then you use the arrow keys to move the tool. Find a place for it where the tool won't touch anything in its surroundings (make sure that it is high enough).
+
+
+
+!!! info "The warmup routine"
+
+    Choose **Cut** and then **Spindle warmup routine**. In the image below you can see the window that pops up. You begin by pushing the **Start button** which is beside the Reset button (that you pushed in the beginning). Then you click on the **OK** on the screen. Now the machine goes through the routine.
+
+
+
+
+!!! info "Changing the tool"
+
+    After the warmup routine is finished you can change the tool. You could also have changed the tool before the warmup routine. You begin by loosening the screw that holds the dust collection skirt. The screw is on the backside. Then you lower the dust collection skirt. Now you have good access to the tool. To loosen the endmill that is in the collet you have to use a wrench and the Collet wrench that is fastened to the machine with a key. Knock the collet against the table and blow in it, just to make sure that there is no material/dust collected in it.
+
+    Note! Make sure that you are using a collet that fits the endmill you are using. 
+   
+
+
+!!! info "Tools"
+
+    Here below you can see the dust collection skirt, the collet wrench, the wrench and the endmill in the collet.   
+
+
+
+#### Zeroing the X- and Y-axis
+
+!!! info "Zeroing the X- and Y-axis"
+
+    Move the tool to the point over your material where you want the zero point to be. Make sure that it is the same X- and Y- point that you used in job setup in VCarve. Click on the small blue button on the Yellow keypad, marked as **Zero axis**. Then you put a checkmark in the boxes in front of the X- and Y- axis (NOT the z-axis!). Then you click on **Zero**.
+
+
+
+#### Zeroing the Z-axis
+
+!!! info "Alligator clip"
+
+    Here you can see the alligator clip that is used to zero the Z-axis. 
+
+
+
+!!! info
+
+    You begin by letting the alligator clip touch the endmill and check if a green light appears in input nr. 1.
+
+
+
+
+!!! info "Zeroing the Z-axis"
+
+    You begin by clicking on the small symbol that shows Z and arrows.
+
+   
+
+!!! info "Place alligator clip under endmill"
+
+    The program will ask you if the alligator clip is placed under the bit. Make sure it is! Then you follow the directions on the screen and hit the right button. The tool will move down and when the endmill touches the alligator clip, it will go up again. Note! The tool will repeat this process so keep the alligator clip until the endmill has lowered and touched the clip TWO TIMES!
+
+!!! warning "Is Zero for Z-axis supposed to be on top of material on or machine bed?"
+    
+    Before you begin with zeroing the Z-axis, think carefully about whether you are supposed to zero the Z-axis on top of the material or on the machine bed. Make sure that you are choosing the same as you used as in the job setup in VCarve.
+
+#### Performing the cut
+
+!!! info "Ready to perform the job"
+
+    Now the machine is ready to start machining or cutting. Close the yellow keypad. Then you click on the **Cut Part** button, find the job you want to do and double-click on it. Then you click on the **Green Start button**.
+
+
+
+
+!!! info "Turn on the dust collector"
+
+    After pushing the start button you give the tool a little time to spin while you turn the dust collector on. My co-teacher told me once that [Bas Withagen](https://fabacademy.org/2012/students/bas.withagen/index.html) this was a good time to prey to the ShopBot God that everything will work out fine.
+
+!!! info "Click on start"
+
+    Finally, you click on the **Start** on the screen.
 
 
     

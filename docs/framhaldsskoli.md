@@ -436,6 +436,23 @@
     
     Smelltu [hér](https://www.fabmennt.com/leidbeiningargeisla) til að skoða leiðbeiningar um hvernig hægt er að búa til glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira. *Höfundar: Hafey Viktoría Hallgrímsdóttir og Þóra Óskarsdóttir.*
 
+
+## 6 - Hlutur með rennismellum búinn til í laser (geislaskera) 
+
+!!! Example "Að búa til rennismellur"
+    
+    Búðu til hlut í laser sem festur er saman með rennismellum. Það getur verið lyklakippa, glasamotta, eyrnalokkar eða annað svipað.
+
+    ![ ](img_framhaldsskoli/FABL1_275x206.jpg)  ![ ](img_framhaldsskoli/FABL1_Eyrnalokkar_275x206.jpg)
+
+### Skriflegar leiðbeiningar
+
+!!! Example "Leiðbeiningar um gerð glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira"
+    
+    Smelltu [hér](https://www.fabmennt.com/leidbeiningargeisla) til að skoða leiðbeiningar um hvernig hægt er að búa til glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira. *Höfundar: Hafey Viktoría Hallgrímsdóttir og Þóra Óskarsdóttir.*
+
+
+
 ### Kennslumyndbönd
 
 !!! Example "Myndbönd um gerð glasamottu, lyklakippu, jólaskrauts og fleira"
