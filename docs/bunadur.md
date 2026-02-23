@@ -63,7 +63,7 @@
     Blekið í BN-20A prentaranum er ECO-SOL MAX 3. Sjá nánari upplýsingar [hér](https://www.rolanddg.eu/en/products/inks/eco-sol-max).
 
 
-## ShopBot
+## ShopBot - Vcarve forritið
 
 ![ ](img_shopbot/Shopbot_TheMachine_800x600.jpg)
 
@@ -139,14 +139,25 @@
 
 #### Fræsibitar og stillingar
 
-!!! info "Stillingar fyrir toolpath"
+!!! info inline end "Stillingar fyrir toolpath"
 
     Hér er dæmi um hvernig upphafsdýptin var stillt á 0.0mm. Þykktin á efninu var um 12.1mm svo skurðardýptin var stillt á 12.3mm til að fara örugglega í gegnum efnið. Ferillinn var stilltur þannig að fræsitönnin myndi fræsa fyrir utan hönnunina. 
     
+
+
+
+
+!!! info "Tabs"
+
     Athugið! Mikilvægt er að bæta við töppum með því að haka við **Add tabs to toolpath**. Þessir tappar tryggja að hlutir fari ekki á fleygiferð þegar þeir eru fræstir.
 
+    ![ ](img_shopbot/AddTabsToToolpath300x145.jpg)
 
-![ ](img_shopbot/Shopbot_ToolpathsStillingar_298x800.jpg)
+!!! info "Ramps"
+
+    Hægt er að stilla.... **Ramps**
+
+    ![ ](img_shopbot/Shopbot_Ramps_397x326.jpg)
 
 !!! info "Að velja fræsibita"
 
