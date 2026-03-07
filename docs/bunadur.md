@@ -63,7 +63,7 @@
     Blekið í BN-20A prentaranum er ECO-SOL MAX 3. Sjá nánari upplýsingar [hér](https://www.rolanddg.eu/en/products/inks/eco-sol-max).
 
 
-## ShopBot - Vcarve forritið
+## ShopBot
 
 ![ ](img_shopbot/Shopbot_TheMachine_800x600.jpg)
 
@@ -71,12 +71,15 @@
   
      Við erum með ShopBot PRS-alpha tölvustýrðan fræsi með 1440 x 2190 x 150 mm vinnusvæði. Hægt er að lesa bækling um ShopBot fræsinn [hér](https://shopbottools.com/wp-content/uploads/2024/01/SBG-00142-User-Guide-20150317.pdf). Í bæklingnum er tekið fram að til að ná fram gæðaskurði er mikilvægt að velja réttan hraða fyrir hvern skurð (feed rate) og snúning á spindli/RPM. Talað er um **Move speed** þegar verið er að skera eða fræsa efni, eða **Feed rate**. Talað er um **Jog speed** þegar tækið hreyfist en er ekki að fræsa eða skera efni. Í bæklingnum er vísað í vefsíðuna [Onsrud.com](https://www.onsrud.com/) fyrir nánari upplýsingar um viðeigandi stillingar. 
 
+## ShopBot - VCarve forritið
 
 ### Forrit sem notuð eru til að hanna og undirbúa 
 
 !!! info " Fusion 360 og VCarve"
   
-    Yfirleitt notum við forritin Fusion 360 og VCarve til að hanna og undirbúa skjöl. 
+    Yfirleitt notum við forritin Fusion 360 og VCarve til að hanna og undirbúa skjöl. VCarve forritið er opnað með því að smella á táknið sem sést hér fyrir neðan.
+
+![ ](img_shopbot/Shopbot_VcarveEdition9.JPG)
 
 ### VCarve
 
@@ -86,9 +89,15 @@
 
 #### Að setja upp verkefni í VCarve
 
+!!! info "Nýtt verkefni eða haldið áfram með verkefni frá því áður"
+  
+    Veljið hvort þið ætlið að halda áfram með verkefni eða búa til nýtt.
+
+    ![ ](img_shopbot/Shopbot_VcarveNewOrExisting.JPG)
+
 !!! info "Job size"
   
-    Eftir að .dxf skjal hefur verið flutt inn í VCarve er byrjað á að setja upp verkefnið undir **Job setup**. 
+    Byrjað er á að setja upp verkefnið undir **Job setup**. 
     
     * Stærð vinnusvæðisins er stillt. Þetta svæði á að vera stærra en svæðið sem verður skorið/fræst. Þetta getur t.d. verið stærð efnisins sem notað verður, nema efnið sé mikið stærra. Þá getur hugsanlega verið hentugt að stilla vinnusvæðið 10mm stærra á lengd og breidd (eða meira). 
 
@@ -129,6 +138,9 @@
 
     Undantekning frá þessu getur verið ef unnið er með fræsingu út frá miðju í hring.
 
+
+
+
 #### Samsetningar - dæmi
 
 !!! info "Dogbones og T-bones"
@@ -137,15 +149,41 @@
 
 
 
-#### Fræsibitar og stillingar
+
+
+### Að stilla ferilinn (Toolpath)
+
+!!! info "Að velja toolpath"
+
+    Ofarlega hægra megin á skjánum má sjá lítinn flipa sem er merktur með **Toolpaths**. Smelltu á hann til að opna stillingar.
+
+    ![ ](img_shopbot/Shopbot_Vcarve_ToolpathsTab.JPG)
+
+!!! info "Að halda toolpaths flipanum opnum"
+
+    Smellt er á pínulitlu teiknibóluna til að halda Toolpath stillingarsvæðinu opnu.
+
+![ ](img_shopbot/Shopbot_Vcarve_Toolpaths_Teiknibola.JPG)
 
 !!! info "Stillingar fyrir toolpath"
 
-    * Hér er dæmi um hvernig upphafsdýptin var stillt á 0.0mm. Þykktin á efninu var um 12.1mm svo skurðardýptin var stillt á 12.3mm til að fara örugglega í gegnum efnið. 
+    * Hér er dæmi þar sem 2D Profile path var notað til að hanna fræstan prófíl. Upphafsdýptin var stillt á 0.0mm. Þykktin á efninu var um 12.1mm svo skurðardýptin var stillt á 12.3mm til að fara örugglega í gegnum efnið. 
     
     * Ferillinn var stilltur þannig að fræsitönnin myndi fræsa fyrir utan hönnunina. 
 
     * Sjá nánar um Tabs og Ramp neðar.
+
+    ![ ](img_shopbot/Shopbot_2DprofileToolpath_settings_195x499.jpg)
+
+!!! info "Stillingar - Dýpt í hverri umferð"
+
+    * Þegar smellt er á **Edit passes** er hægt að stilla hversu djúpt er farið í hverri umferð. 
+    
+    * **Það er ágætt viðmið að láta fræsitönnina ekki fara dýpra en helminginn af þvermáli sínu í hverri umferð:**
+
+        * 1/4" fræsitönn fer þá ekki dýpra en 1/8". 
+
+        * Ef þetta er reiknað í mm er tönnin rúmlega 6mm og fer þá ekki meira en 3mm á dýptina í hverri umferð.
 
     ![ ](img_shopbot/Shopbot_2DprofileToolpath_600x499.jpg)
 
@@ -161,10 +199,11 @@
 
     ![ ](img_shopbot/Shopbot_Ramps_397x326.jpg)
 
-!!! info "Að velja fræsibita"
+#### Að velja fræsitönn
 
-    Fræsibitar...
+!!! info "Að velja fræsitönn"
 
+    Búið er að setja upp stillingar fyrir ýmsar fræsitennur.
 
 
 ![ ](img_shopbot/Shopbot_Tool600x521.jpg)
@@ -195,6 +234,8 @@
     
     Smelltu á táknið fyrir ShopBot forritið.
 
+
+
 #### Yfirlit ShopBot forrit/stjórntæki
 
 !!! info "Yfirlit"
@@ -212,7 +253,7 @@
 
 !!! warning "Opnið fyrst Spindle control"
 
-    Athugið! Fyrst þarf að opna **Spindle control** undir **Cut**. Þetta sýnir snúningshraða á spindilsins.
+    Athugið! Fyrst þarf að opna **Spindle control** undir **Tools**. Þetta sýnir snúningshraða á spindilsins.
 
     ![ ](img_shopbot/Shopbot_SpindleControl249x135.JPG)
 
@@ -230,7 +271,7 @@
 
 !!! info "Upphitunarferlið (The warmup routine)"
 
-    Smelltu á **Cut** og svo **Spindle warmup routine**. Á myndinni fyrir neðan sérðu gluggann sem opnast. Smelltu á græna **Start hnappinn**. 
+    Smelltu á **Cut** og svo **Spindle warmup routine**. Á myndinni fyrir neðan sérðu gluggann sem opnast. Ýttu á græna **Start hnappinn**. 
     
     ![ ](img_shopbot/Shopbot_EmergencyButton500x376.jpg)
     
@@ -254,9 +295,9 @@
  
     ![ ](img_shopbot/Shopbot_SkiptUmFraesitonn_800x600.jpg)
 
-!!! info "Notaðu rétta collettu"
+!!! info "Notaðu rétta kollettu"
 
-    Stykkið sem fræsitönnin fer í kallast **Collet**. Þessi stykki eru til í mismunandi stærðum og því er mikilvægt að velja stærð sem passar utan um fræsitönnina sem á að nota.
+    Stykkið sem fræsitönnin fer í kallast kolletta eða **Collet**. Þessi stykki eru til í mismunandi stærðum og því er mikilvægt að velja stærð sem passar utan um fræsitönnina sem á að nota.
 
     Áður en fræsitönnin er fest í þarf að banka collettunni aðeins í borðið og blása inn í hana til að tryggja að ekkert sag sé í henni. Annars er hætta á að hún herðist ekki nógu vel utan um fræsitönnina.
 
