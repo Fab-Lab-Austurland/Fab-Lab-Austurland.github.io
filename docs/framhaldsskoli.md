@@ -434,8 +434,7 @@
 
 !!! Example "Leiðbeiningar um gerð glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira"
     
-    Smelltu [hér](https://www.fabmennt.com/leidbeiningargeisla) til að skoða leiðbeiningar um hvernig hægt er að búa til glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira. *Höfundar: Hafey Viktoría Hallgrímsdóttir og Þóra Óskarsdóttir.*
-
+    Smelltu [hér](https://www.fabmennt.com/leidbeiningargeisla) til að skoða leiðbeiningar um hvernig hægt er að búa til glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira. *Höfundar: Hafey Viktoría Hallgrímsdóttir.*
 
 ## 6 - Hlutur með rennismellum búinn til í laser (geislaskera) 
 
@@ -447,18 +446,35 @@
 
 ### Skriflegar leiðbeiningar
 
-!!! Example "Leiðbeiningar um gerð glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira"
+!!! Example "Leiðbeiningar um hvernig hægt er að búa til hlut með rennismellum"
     
-    Smelltu [hér](https://www.fabmennt.com/leidbeiningargeisla) til að skoða leiðbeiningar um hvernig hægt er að búa til glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira. *Höfundar: Hafey Viktoría Hallgrímsdóttir og Þóra Óskarsdóttir.*
-
-
+    Smelltu [hér](https://1b1b4ded-19ea-40be-a62c-dedafc37e7fe.filesusr.com/ugd/0ebced_d9c3f8b01f3343d1b9cdb20555951928.pdf) til að skoða leiðbeiningar um hvernig hægt er að búa til glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira. *Höfundar: Hafey Viktoría Hallgrímsdóttir.*
 
 ### Kennslumyndbönd
 
-!!! Example "Myndbönd um gerð glasamottu, lyklakippu, jólaskrauts og fleira"
+!!! Example "Myndbönd um hvernig hægt er að búa til hlut með rennismellum"
     
-    Smelltu [hér](https://www.fabmennt.com/myndbondgeisla) til að skoða kennslumyndbönd um hvernig hægt er að búa til glasamottu, lyklakippu, jólaskraut, kassa og fleira. *Höfundur: Andri Sæmundsson.*
+    Smelltu [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=2cc7ba8af64649318bb3ec98d6022eaf&wix-vod-comp-id=comp-l0gj7s07) til að skoða kennslumyndbönd um hvernig hægt er að búa til glasamottu, lyklakippu, jólaskraut, kassa og fleira. *Höfundur: Andri Sæmundsson.*
 
+## 7 - Box búið til í laser (með hjálp vefsíðu) 
+
+!!! Example "Að búa til box í laser með hjálp vefsíðu"
+    
+    Búðu til box á vefsíðunni [Makercase.com](https://www.makercase.com/). Athugaðu að þú þarft að stofna aðgang til að geta halað niður því sem þú býrð til
+
+    ![ ](img_framhaldsskoli/FABL1_Makercase_389x500.jpg)
+
+### Skriflegar leiðbeiningar
+
+!!! Example "Leiðbeiningar um hvernig hægt er að búa til box með hjálp vefsíðu"
+    
+    Smelltu [hér](https://1b1b4ded-19ea-40be-a62c-dedafc37e7fe.filesusr.com/ugd/0ebced_6eb143456cd24ca0a3df49bc6802ef71.pdf) til að skoða leiðbeiningar um hvernig hægt er að búa til box með hjálp vefsíðu. *Höfundar: Hafey Viktoría Hallgrímsdóttir.*
+
+### Kennslumyndbönd
+
+!!! Example "Myndbönd um hvernig hægt er að búa til box með hjálp vefsíðu"
+    
+    Smelltu [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=9088ac526209462a850c5b30381395f4&wix-vod-comp-id=comp-l0gj7s18) til að skoða kennslumyndbönd um hvernig hægt er að búa til box með hjálp vefsíðu. *Höfundur: Andri Sæmundsson.*
 
 ## FABL2GR05
 
