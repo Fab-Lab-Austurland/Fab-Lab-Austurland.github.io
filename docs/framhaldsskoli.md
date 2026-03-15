@@ -464,6 +464,8 @@
 
     ![ ](img_framhaldsskoli/FABL1_Makercase_389x500.jpg)
 
+    ![ ](img_framhaldsskoli/FABL1_Makercase_plexigler_700x318.jpg)
+
 ### Skriflegar leiðbeiningar
 
 !!! Example "Leiðbeiningar um hvernig hægt er að búa til box með hjálp vefsíðu"
