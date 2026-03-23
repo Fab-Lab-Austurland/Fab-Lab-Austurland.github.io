@@ -460,7 +460,9 @@
 
 !!! Example "Að búa til box í laser með hjálp vefsíðu"
     
-    Búðu til box á vefsíðunni [Makercase.com](https://www.makercase.com/). Athugaðu að þú þarft að stofna aðgang til að geta halað niður því sem þú býrð til
+    Búðu til box á vefsíðunni [Makercase.com](https://www.makercase.com/). Athugaðu að þú þarft að stofna aðgang til að geta halað niður því sem þú býrð til. 
+
+    **Ath að þú þarft að stilla Kerf á 0,1 en ekki 0,18 eins og í leiðbeiningunum.**
 
     ![ ](img_framhaldsskoli/FABL1_Makercase_389x500.jpg)
 
