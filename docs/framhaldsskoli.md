@@ -444,8 +444,6 @@
 
     ![ ](img_framhaldsskoli/FABL1_AllsKonarRennismellur_ogFleira_600x288.jpg)
 
-    ![ ](img_framhaldsskoli/FABL1_Rennismellur_paskadot_600x302.jpg)
-
     ![ ](img_framhaldsskoli/FABL1_Rennismellur_paskar_refur_jola_600x576.jpg)
 
 ### Skriflegar leiðbeiningar
@@ -453,12 +451,6 @@
 !!! Example "Leiðbeiningar um hvernig hægt er að búa til hlut með rennismellum"
     
     Smelltu [hér](https://1b1b4ded-19ea-40be-a62c-dedafc37e7fe.filesusr.com/ugd/0ebced_d9c3f8b01f3343d1b9cdb20555951928.pdf) til að skoða leiðbeiningar um hvernig hægt er að búa til hlut með rennismellum. *Höfundar: Hafey Viktoría Hallgrímsdóttir.*
-        
-!!! Success "Mikilvægt til viðbótar"
-    
-    Ath! Þú þarft að búa til aðgang að vefsíðunni. Það er ekki sýnt í myndbandinu.
-
-    Ath! Þú þarft að stilla kerf á 0.1 en ekki 0.18 
 
 ### Kennslumyndbönd
 
@@ -466,17 +458,13 @@
     
     Smelltu [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=2cc7ba8af64649318bb3ec98d6022eaf&wix-vod-comp-id=comp-l0gj7s07) til að skoða kennslumyndbönd um hvernig hægt er að búa til hlut með rennismellum. *Höfundur: Andri Sæmundsson.* 
     
-!!! Success "Mikilvægt til viðbótar"
-    
-    Ath! Þú þarft að búa til aðgang að vefsíðunni. Það er ekki sýnt í myndbandinu.
-
-    Ath! Þú þarft að stilla kerf á 0.1 en ekki 0.18 
-
 ## 7 - Box búið til í laser (með hjálp vefsíðu) 
 
 !!! Example "Að búa til box í laser með hjálp vefsíðu"
     
     Búðu til box á vefsíðunni [Makercase.com](https://www.makercase.com/). Athugaðu að þú þarft að stofna aðgang til að geta halað niður því sem þú býrð til. 
+
+    **Þú getur búið til Basic box og Curved box en ef þú ætlar að velja einhver af hinum boxunum þarftu að búa til aðgang.**
 
     **Ath að þú þarft að stilla Kerf á 0,1 en ekki 0,18 eins og í leiðbeiningunum.**
 
