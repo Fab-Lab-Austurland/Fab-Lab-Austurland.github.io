@@ -440,21 +440,37 @@
 
 !!! Example "Að búa til rennismellur"
     
-    Búðu til hlut í laser sem festur er saman með rennismellum. Það getur verið lyklakippa, glasamotta, eyrnalokkar eða annað svipað.
+    Búðu til hlut í laser sem festur er saman með rennismellum. Það getur verið allt mögulegt, líkt og sjá má á myndunum hér fyrir neðan. Dæmin hér fyrir neðan og fleiri má finna [hér](https://www.pinterest.com/pin/562527809712262231/) og [hér](https://www.pinterest.com/hannesdttir/laser/)
 
-    ![ ](img_framhaldsskoli/FABL1_275x206.jpg)  ![ ](img_framhaldsskoli/FABL1_Eyrnalokkar_275x206.jpg)
+    ![ ](img_framhaldsskoli/FABL1_AllsKonarRennismellur_ogFleira_600x288.jpg)
+
+    ![ ](img_framhaldsskoli/FABL1_Rennismellur_paskadot_600x302.jpg)
+
+    ![ ](img_framhaldsskoli/FABL1_Rennismellur_paskar_refur_jola_600x576.jpg)
 
 ### Skriflegar leiðbeiningar
 
 !!! Example "Leiðbeiningar um hvernig hægt er að búa til hlut með rennismellum"
     
-    Smelltu [hér](https://1b1b4ded-19ea-40be-a62c-dedafc37e7fe.filesusr.com/ugd/0ebced_d9c3f8b01f3343d1b9cdb20555951928.pdf) til að skoða leiðbeiningar um hvernig hægt er að búa til glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira. *Höfundar: Hafey Viktoría Hallgrímsdóttir.*
+    Smelltu [hér](https://1b1b4ded-19ea-40be-a62c-dedafc37e7fe.filesusr.com/ugd/0ebced_d9c3f8b01f3343d1b9cdb20555951928.pdf) til að skoða leiðbeiningar um hvernig hægt er að búa til hlut með rennismellum. *Höfundar: Hafey Viktoría Hallgrímsdóttir.*
+        
+!!! Success "Mikilvægt til viðbótar"
+    
+    Ath! Þú þarft að búa til aðgang að vefsíðunni. Það er ekki sýnt í myndbandinu.
+
+    Ath! Þú þarft að stilla kerf á 0.1 en ekki 0.18 
 
 ### Kennslumyndbönd
 
 !!! Example "Myndbönd um hvernig hægt er að búa til hlut með rennismellum"
     
-    Smelltu [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=2cc7ba8af64649318bb3ec98d6022eaf&wix-vod-comp-id=comp-l0gj7s07) til að skoða kennslumyndbönd um hvernig hægt er að búa til glasamottu, lyklakippu, jólaskraut, kassa og fleira. *Höfundur: Andri Sæmundsson.*
+    Smelltu [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=2cc7ba8af64649318bb3ec98d6022eaf&wix-vod-comp-id=comp-l0gj7s07) til að skoða kennslumyndbönd um hvernig hægt er að búa til hlut með rennismellum. *Höfundur: Andri Sæmundsson.* 
+    
+!!! Success "Mikilvægt til viðbótar"
+    
+    Ath! Þú þarft að búa til aðgang að vefsíðunni. Það er ekki sýnt í myndbandinu.
+
+    Ath! Þú þarft að stilla kerf á 0.1 en ekki 0.18 
 
 ## 7 - Box búið til í laser (með hjálp vefsíðu) 
 
