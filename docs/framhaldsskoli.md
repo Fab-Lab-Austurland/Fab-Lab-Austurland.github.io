@@ -466,7 +466,7 @@
 
     **Þú getur búið til Basic box og Curved box en ef þú ætlar að velja einhver af hinum boxunum þarftu að búa til aðgang.**
 
-    **Ath að þú þarft að stilla Kerf á 0,1 en ekki 0,18 eins og í leiðbeiningunum.**
+    **Ath að þú þarft að stilla Kerf á 0,1 en ekki 0,18 eins og í leiðbeiningunum. Þetta er sjálfgefin stilling á vefsíðunni og því þurfið þið ekki að breyta henni.**
 
     ![ ](img_framhaldsskoli/FABL1_Makercase_389x500.jpg)
 
