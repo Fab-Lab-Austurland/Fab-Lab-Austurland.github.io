@@ -462,7 +462,7 @@
 
 !!! Example "Að búa til box í laser með hjálp vefsíðu"
     
-    Búðu til box á vefsíðunni [Makercase.com](https://www.makercase.com/). Athugaðu að þú þarft að stofna aðgang til að geta halað niður því sem þú býrð til. 
+    Búðu til box á vefsíðunni [Makercase.com](https://www.makercase.com/). 
 
     **Þú getur búið til Basic box og Curved box en ef þú ætlar að velja einhver af hinum boxunum þarftu að búa til aðgang.**
 
