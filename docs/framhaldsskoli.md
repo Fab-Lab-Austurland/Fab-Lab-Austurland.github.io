@@ -484,6 +484,82 @@
     
     Smelltu [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=9088ac526209462a850c5b30381395f4&wix-vod-comp-id=comp-l0gj7s18) til að skoða kennslumyndbönd um hvernig hægt er að búa til box með hjálp vefsíðu. *Höfundur: Andri Sæmundsson.*
 
+    
+## 8 - Texti eða mynd saumuð út í textíl
+
+!!! Example "Að nota útsaumsvél til að sauma út mynd eða texta í textíl"
+    
+    Búðu til box á vefsíðunni [Makercase.com](https://www.makercase.com/). 
+
+
+### Að útbúa mynd fyrir saumavélina
+
+!!! info "Að útbúa mynd fyrir saumavélina"
+    
+     Byrjaðu á að opna Inkscape. Fylgdu svo leiðbeiningunum [hér](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) í bók eftir Hafey Hallgrímsdóttur um hvernig eigi að búa til límmiða (fyrsta verkefnið í bókinni). Fylgdu öllum leiðbeiningum þar til þú hefur búið til vektor teikningu.
+
+     Hér var pennateikningu notuð en það er líka hægt að nota myndir af netinu.
+     
+     Næst smellir þú á **Hlutur** og svo **Fylling og útlína**, kveiktu á **Fyllingu** og slökktu á **Lit útlínu**.
+     
+     Þú getur valið liti hér en þú munt svo stilla litina endanlega í útsaumsvélinni.
+
+     Smelltu á **Skrá** og **Skráareiginleikar**. Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi**.
+
+
+
+
+!!! info "Búið að aðlaga stærð að innihaldi"
+    
+     Eftir að stærðin hefur verið aðlöguð að innihaldi sést að blaðsíðan passar akkúrat utan um verkefnið.
+
+
+!!! info "Að skoða stillingar í params"
+    
+    Ef þú smellir á **Extensions**, **Ink/Stitch**, **Params** getur þú skoðað stillingarnar fyrir útsauminn.
+
+
+
+!!! info "Stillingar og forskoðun í params"
+    
+    Í params er meðal annars að finna forskoðun á útsaumsverkinu. Það spilast eins og myndband svo það sést hvernig útsaumurinn fer fram. Þarna er líka hægt að breyta ýmsum stillingum.
+
+
+
+
+!!! info ".pes skrá býr til feril fyrir saumavél"
+    
+    Á myndinni hér fyrir neðan sést hvernig .pes hefur búið til feril fyrir útsaumsvélina. Þarna sést hvernig tvinninn verður lagður niður.
+
+
+### Að búa til útlínumynd
+
+!!! info "Að búa til útlínumynd fyrir útsaumsvélina"
+    
+     Ef þú vilt búa til útlínumynd getur þú fylgt leiðbeiningunum [hér](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) í bókinni eftir Hafey Hallgrímsdóttur um hvernig eigi að búa til límmiða en þegar þú hefur smellt á **Hlutur** og **Fylling og útlína**, slökkt á **Fylling** og kveikt á **Litur útlínu**....þá, í stað þess að stilla **Stíll útlínu** á 0.02 gerir þú línuna þykkari. Það er gott a miða við að hafa línuna að lágmarki 1.5. Svo getur þú valið lit á línuna en þær stillingar eru svo endanlega gerðar í útsaumsvélinni síðar.
+
+!!! info "Að nota Convert line to Satin"
+    
+     Næsta skref er að smella á **Extensions**, **Ink/Stitch**, **Tools: satin** og svo **Convert line to satin**.
+
+!!! info "að vista sem .pes file"
+    
+    Næst er skráin vistuð sem **.svg** skrá. Þessa skrá er hægt að nota síðar ef það reynist þörf á að breyta hönuninni. Svo er skráin vistuð sem **.pes file**. 
+    
+!!! info ".pes skrá býr til útsaumsferilinn"
+    
+    Á myndinni hér fyrir neðans sést hvernig .pes skráin bjó til feril fyrir þetta verkefni. Þráðurinn sést vel.
+
+### Að festa efnið á ramma
+
+!!! info "Að festa efnið"
+    
+    Margnota taupoki var notaður í þetta verkefni. Efnið var fest í sérstakan útsaumsramma. Innri hluti útsaumsrammans var lagður innan í taupokann. Svo var bútur af stuðningsefni lagður ofan á rammann, semsagt einnig inni í pokanum. Það er mikilvægt að búturinn af stuðningsefninu sé nógu stór til að geta fallið á milli innri rammans og ytri rammans. Eftir að búið er að stilla af staðsetninguna á innri rammanum+stuðningsefninu er ytri ramminn lagður ofan á efnið og honum þrýst niður þannig að hann falli utan um innri rammann sem er hinum megin við efnið. Svo er skrúfan hert til að halda efninu á sínum stað. Þess er gætt að efnið sé nógu vel strekkt til að hægt sé að banka létt á efnið eins og trommu.
+
+!!! tip "Röðun á lögum ræður röðun á útsaumi"
+    
+    Þegar unnið er með fleiri en einn litaflöt og línur í Inkscape verða til nokkur lög (e. layers) í Inkscape. Það er hægt að stýra því á hvaða litafleti vélin byrjar. Vélin byrjar ávallt á því lagi sem er neðst á listanum í Inkscape og fylgir svo lögunum uppávið. Þetta þýðir að þú getur breytt röðun laganna ef það skiptir máli í hvaða röð saumað er. Dragðu bara lögin til þar til röðunin er eins og óskað er eftir.
+
 ## FABL2GR05
 
 ### Að búa til mynstur (límmiðar/fatalímmiðar og fleira)
