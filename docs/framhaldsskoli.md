@@ -489,25 +489,70 @@
 
 !!! Example "Að nota útsaumsvél til að sauma út mynd eða texta í textíl"
     
-    Búðu til box á vefsíðunni [Makercase.com](https://www.makercase.com/). 
+    Þú getur valið hvaða aðferð þú vilt nota. Þú getur farið beint í útsaumsvélina og valið texta eða mynd þar. Þú getur líka fundið mynd á netinu og notað annað hvort aðferð A eða B þegar þú undirbýrð myndina fyrir útsaumsvélina. Með aðferð A finnur þú mynd á netinu sem er útlínuteikning (notar leitarorðin coloring pages eða outline). Með aðferð B finnur þú litmynd á netinu sem er mjög einföld og skýr mörk á milli litaðra svæða. Myndin má ekki vera í mörgum litum.
+
 
 
 ### Að útbúa mynd fyrir saumavélina
 
-!!! info "Að útbúa mynd fyrir saumavélina"
+!!! info "Aðferð A - Að útbúa mynd fyrir saumavélina"
     
-     Byrjaðu á að opna Inkscape. Fylgdu svo leiðbeiningunum [hér](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) í bók eftir Hafey Hallgrímsdóttur um hvernig eigi að búa til límmiða (fyrsta verkefnið í bókinni). Fylgdu öllum leiðbeiningum þar til þú hefur búið til vektor teikningu.
+     Byrjaðu á að opna Inkscape. Fylgdu svo leiðbeiningunum [hér](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) í bók eftir Hafey Hallgrímsdóttur um hvernig eigi að búa til límmiða (fyrsta verkefnið í bókinni). Fylgdu öllum leiðbeiningum þar til þú hefur búið til vektor teikningu. Athugaðu að bæta **outline** eða **coloring pages** við leitarorðin þegar þú leitar á netinu - **Ekki Silhouette eins og þegar þú gerir venjulega límmiða.**
 
      Hér var pennateikningu notuð en það er líka hægt að nota myndir af netinu.
      
      Næst smellir þú á **Hlutur** og svo **Fylling og útlína**, kveiktu á **Fyllingu** og slökktu á **Lit útlínu**.
      
-     Þú getur valið liti hér en þú munt svo stilla litina endanlega í útsaumsvélinni.
 
+!!! info "Aðferð B - Að útbúa mynd fyrir saumavélina"
+    
+     Finndu einfalda litmynd á netinu með skýrum mörkum á milli litaðra svæða. Myndin má ekki vera í mörgum litum.
+
+     Veldu **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. 
+     
+     Veldu svo **Multicolor** og undir því **Colors**.
+     
+     Næst smellir þú á **Virkja (Apply)**.
+     
+    ![ ](img_framhaldsskoli/FABL1_Bird_Multicolour_Apply700x438.jpg)
+
+
+!!! info "Að eyða upphaflegu myndinni"
+    
+     Eyddu upphaflegu myndinni.
+
+    ![ ](img_framhaldsskoli/FABL1_Bird_DeleteImage600x521.jpg)
+
+!!! info "Að skipta upp svæðum"
+    
+     Veldu **Extensions**, svo **Inkstitch**, því næst **Tools: Fill** og að lokum **Break apart filled objects**.
+     
+    ![ ](img_framhaldsskoli/FABL1_Bird_BreakApartFillObjects.png)
+
+
+!!! info "Að skipta upp hópum"
+    
+     Smelltu á **Hlutur (Object)** og **Skipta upp hóp (Ungroup)**.
+
+    ![ ](img_framhaldsskoli/FABL1_Bird_Ungroup700x477.jpg)
+
+!!! info "Að fylla svæði með litum"
+    
+     Smelltu á **Hlutur (Object)** og **Skipta upp hóp (Ungroup)**.
+
+     Veldu litlu málningarfötuna vinstra megin og veldu lit á litastikunni neðst. Smelltu svo á þann flöt sem þú vilt fylla með litnum.
+
+
+!!! info "Stillingar fyrir fyllt svæði"
+    
+     Næst smellir þú á **Hlutur** og svo **Fylling og útlína**, kveiktu á **Fyllingu** og slökktu á **Lit útlínu**.
+     
+
+!!! info "Að aðlaga stærð að innihaldi"
+    
      Smelltu á **Skrá** og **Skráareiginleikar**. Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi**.
 
-
-
+    ![ ](img_framhaldsskoli/FABL1_Bird_ResizeToContent700x351.jpg)
 
 !!! info "Búið að aðlaga stærð að innihaldi"
     
@@ -525,7 +570,7 @@
     Í params er meðal annars að finna forskoðun á útsaumsverkinu. Það spilast eins og myndband svo það sést hvernig útsaumurinn fer fram. Þarna er líka hægt að breyta ýmsum stillingum.
 
 
-
+    ![ ](img_framhaldsskoli/FABL1_Bird_Simulations700x412.jpg)
 
 !!! info ".pes skrá býr til feril fyrir saumavél"
     
