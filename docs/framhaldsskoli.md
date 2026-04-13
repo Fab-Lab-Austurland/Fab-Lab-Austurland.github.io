@@ -576,7 +576,8 @@
     
     Á myndinni hér fyrir neðan sést hvernig .pes hefur búið til feril fyrir útsaumsvélina. Þarna sést hvernig tvinninn verður lagður niður.
 
-
+    ![ ](img_framhaldsskoli/FABL1_Bird_pesFile700x500.jpg)
+    
 ### Að búa til útlínumynd
 
 !!! info "Að búa til útlínumynd fyrir útsaumsvélina"
