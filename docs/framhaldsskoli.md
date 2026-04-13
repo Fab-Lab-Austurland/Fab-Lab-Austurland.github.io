@@ -548,6 +548,12 @@
      Næst smellir þú á **Hlutur** og svo **Fylling og útlína**, kveiktu á **Fyllingu** og slökktu á **Lit útlínu**.
      
 
+!!! info "Stærð á mynd"
+    
+     Stilltu hver stærðin á myndinni á að vera.
+
+    ![ ](img_framhaldsskoli/FABL1_Bird_Size400x396.jpg)
+
 !!! info "Að aðlaga stærð að innihaldi"
     
      Smelltu á **Skrá** og **Skráareiginleikar**. Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi**.
@@ -558,17 +564,11 @@
     
      Eftir að stærðin hefur verið aðlöguð að innihaldi sést að blaðsíðan passar akkúrat utan um verkefnið.
 
-
-!!! info "Að skoða stillingar í params"
+!!! info "Stillingar og forskoðun í params"
     
     Ef þú smellir á **Extensions**, **Ink/Stitch**, **Params** getur þú skoðað stillingarnar fyrir útsauminn.
 
-
-
-!!! info "Stillingar og forskoðun í params"
-    
     Í params er meðal annars að finna forskoðun á útsaumsverkinu. Það spilast eins og myndband svo það sést hvernig útsaumurinn fer fram. Þarna er líka hægt að breyta ýmsum stillingum.
-
 
     ![ ](img_framhaldsskoli/FABL1_Bird_Simulations700x412.jpg)
 
