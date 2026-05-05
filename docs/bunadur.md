@@ -63,6 +63,18 @@
     Blekið í BN-20A prentaranum er ECO-SOL MAX 3. Sjá nánari upplýsingar [hér](https://www.rolanddg.eu/en/products/inks/eco-sol-max).
 
 
+## Bambu Lab þrívíddarprentarar
+
+#### Að fjarlægja stíflur
+
+!!! info "Myndband sem sýnir hvernig hægt er að losa stíflur í Bambu Lab A1 Combo"
+  
+     Myndband sem lýsir því hvernig hægt er að losa túbur er að finna [hér](https://www.youtube.com/watch?v=e707GKu_OCs). Heiti myndbandsins er **How to Clear Broken Filament from Bambu Lab A1 Mini**.
+
+!!! info "Trix til að losa slöngur"
+  
+     Myndband sem lýsir því hvernig hægt er að losa túbur er að finna [hér](https://www.youtube.com/shorts/Z_N8zvzk0Nc). Heiti myndbandsins er **Simple Hack For Swapping Bowden Tubes Bambu Lab A1**.
+
 ## ShopBot
 
 ![ ](img_shopbot/Shopbot_TheMachine_800x600.jpg)
