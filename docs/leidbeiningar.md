@@ -292,11 +292,11 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
     
     Fab Lab Austurland á Brother 6-6-nála útsaumsvél. Hér er [bæklingur](https://download.brother.com/welcome/doch102285/884t23_om01en.pdf) fyrir Brother 6-6-nála útsaumsvélina. 
 
-!!! tip "Dropi af olíu áður en unnið er með vélina"
+!!! warning "Dropi af olíu áður en unnið er með vélina"
     
      Það er mikilvægt að setja dropa af olíu á krókinn áður en neðri tvinninn er settur í. Þetta borgar sig að gera einu sinni á dag þá daga sem á að vinna með vélina, þ.e. áður en verkið hefst.
 
-
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_AdSmyrjaUtsaumsvelina_405x297.jpg)
 
 !!! info "Niðurhal og leiðbeiningar"
     
@@ -306,16 +306,18 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 ### Kennslumyndbönd
 
-!!! info "Leiðbeiningarmyndbönd fyrir saumavélina"
+!!! tip "Leiðbeiningarmyndbönd fyrir saumavélina"
     
      Grunnleiðbeiningar [hér](https://www.youtube.com/watch?v=W7u4mPaRjIs).
+
      Leiðbeiningar fyrir fyllt svæði [hér](https://www.youtube.com/watch?v=a3-qerPiJy4).
+
      Leiðbeiningar fyrir línur (satin stitch) [hér](https://www.youtube.com/watch?v=Sqy_QTgPYH4).
 
 
 ### Að útbúa mynd fyrir saumavélina
 
-!!!Info "Að finna mynd á netinu"
+!!!example "Að finna mynd á netinu"
 
     * Bættu orðinu **Silhouette** eða **Black and white** fyrir aftan leitarorðið þitt til að fá skýra, svart/hvíta mynd. 
     * Smelltu á **Mynd (Image)**. 
@@ -326,14 +328,14 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
     * Vistaðu myndina.
 
-!!!Info "Að flytja myndina inn í Inkscape"
+!!!example "Að flytja myndina inn í Inkscape"
 
     * Opnaðu Inkscape forritið
     * Veldu **Skrá (File)** og **Flytja inn (Import)**. 
     * Veldu myndina og smelltu á **Opna (Open)**.
     * Smelltu á **Í lagi (OK)**.
 
-!!!Info "Að breyta mynd í vektormynd"
+!!!example "Að breyta mynd í vektormynd"
 
     * Veldu **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. 
     * Þegar smellt er á **Uppfæra (Update)** er sýnt hvernig myndin muni líta út. Reyndar gefur það ekki alltaf nákvæma mynd en oftast virkar það sem **Preview**. 
@@ -341,14 +343,14 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
     * Vinstri-smelltu með músinni ofan á myndina, haltu takkanum inni og dragðu myndina til hliðar. 
     * Smelltu til skiptis á báðar myndirnar. Þegar það stendur ,,Mynd“ (Image)  neðst á skjánum má eyða þeirri mynd. 
 
-!!! info "Það má líka nota eigin teikningar!"
+!!! example "Það má líka nota eigin teikningar!"
     
      * Hér var pennateikningu notuð.
 
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_teikningAfHakarli206x155.jpg)
 
 
-!!! info "Að stilla mynd þannig að saumavélin fylli upp í svæði"
+!!! example "Að stilla mynd þannig að saumavélin fylli upp í svæði"
     
      * Það er hægt að velja hvort það á bara að sauma útlínur eða hvort svæði eru fyllt. Hér er bara unnið með fyllt svæði.
 
@@ -365,7 +367,7 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_Hakarl_AdlagaStaerdAdInnihaldi_700x386.jpg)
 
 
-!!! info "Að aðlaga stærð að innihaldi"
+!!! example "Að aðlaga stærð að innihaldi"
     
      * Smelltu á **Skrá** og **Skráareiginleikar**. Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi**.
 
@@ -376,20 +378,20 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 
 
-!!! info "Að skoða stillingar í params"
+!!! example "Að skoða stillingar í params"
     
     Ef þú smellir á **Extensions**, **Ink/Stitch**, **Params** getur þú skoðað stillingarnar fyrir útsauminn.
 
 
 
-!!! info "Stillingar og forskoðun í params"
+!!! example "Stillingar og forskoðun í params"
     
     Í params er meðal annars að finna forskoðun á útsaumsverkinu. Það spilast eins og myndband svo það sést hvernig útsaumurinn fer fram. Þarna er líka hægt að breyta ýmsum stillingum.
 
 
 
 
-!!! info ".pes skrá býr til feril fyrir saumavél"
+!!! example ".pes skrá býr til feril fyrir saumavél"
     
     Á myndinni hér fyrir neðan sést hvernig .pes hefur búið til feril fyrir útsaumsvélina. Þarna sést hvernig tvinninn verður lagður niður.
 
