@@ -405,7 +405,7 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
     
     * Svo er bútur af stuðningsefni lagður ofan á rammann innan í pokanum. Það er mikilvægt að búturinn af stuðningsefninu sé nógu stór til að geta fallið á milli innri rammans og ytri rammans. 
 
-    ![](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_pokiFesturIRamma_700x525.jpg)
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_undirlagRammi_700x525.jpg)
     
     * Eftir að búið er að stilla af staðsetninguna á innri rammanum+stuðningsefninu er ytri ramminn lagður ofan á efnið og honum þrýst niður þannig að hann falli utan um innri rammann sem er hinum megin við efnið. 
     
