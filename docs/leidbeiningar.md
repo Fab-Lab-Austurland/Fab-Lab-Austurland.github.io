@@ -382,7 +382,22 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 !!! info "Að festa efnið"
     
-    Margnota taupoki var notaður í þetta verkefni. Efnið var fest í sérstakan útsaumsramma. Innri hluti útsaumsrammans var lagður innan í taupokann. Svo var bútur af stuðningsefni lagður ofan á rammann, semsagt einnig inni í pokanum. Það er mikilvægt að búturinn af stuðningsefninu sé nógu stór til að geta fallið á milli innri rammans og ytri rammans. Eftir að búið er að stilla af staðsetninguna á innri rammanum+stuðningsefninu er ytri ramminn lagður ofan á efnið og honum þrýst niður þannig að hann falli utan um innri rammann sem er hinum megin við efnið. Svo er skrúfan hert til að halda efninu á sínum stað. Þess er gætt að efnið sé nógu vel strekkt til að hægt sé að banka létt á efnið eins og trommu.
+    * Festið efnið í sérstakan útsaumsramma. 
+    
+    * Innri hluti útsaumsrammans er lagður **innan í taupokann.** 
+    
+    * Svo er bútur af stuðningsefni lagður ofan á rammann innan í pokanum. Það er mikilvægt að búturinn af stuðningsefninu sé nógu stór til að geta fallið á milli innri rammans og ytri rammans. 
+
+    ![](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_pokiFesturIRamma_700x525.jpg)
+    
+    * Eftir að búið er að stilla af staðsetninguna á innri rammanum+stuðningsefninu er ytri ramminn lagður ofan á efnið og honum þrýst niður þannig að hann falli utan um innri rammann sem er hinum megin við efnið. 
+    
+    * Svo er skrúfan hert til að halda efninu á sínum stað. 
+    
+    * Þess er gætt að efnið sé nógu vel strekkt til að hægt sé að banka létt á efnið eins og trommu.
+
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_pokiFesturIRamma_700x525.jpg)
+
 
 !!! tip "Röðun á lögum ræður röðun á útsaumi"
     
