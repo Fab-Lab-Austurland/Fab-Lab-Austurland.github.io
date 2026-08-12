@@ -306,7 +306,7 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 ### Kennslumyndbönd
 
-!!! info "Að útbúa mynd fyrir saumavélina"
+!!! info "Leiðbeiningarmyndbönd fyrir saumavélina"
     
      Grunnleiðbeiningar [hér](https://www.youtube.com/watch?v=W7u4mPaRjIs).
      Leiðbeiningar fyrir fyllt svæði [hér](https://www.youtube.com/watch?v=a3-qerPiJy4).
@@ -315,13 +315,35 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 ### Að útbúa mynd fyrir saumavélina
 
-!!! info "Að útbúa mynd fyrir saumavélina"
-    
-     * Byrjaðu á að opna Inkscape. 
-     
-     * Fylgdu svo leiðbeiningunum [hér](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) í bók eftir Hafey Hallgrímsdóttur um hvernig eigi að búa til límmiða (fyrsta verkefnið í bókinni). Fylgdu öllum leiðbeiningum þar til þú hefur búið til vektor teikningu.
+!!!Info "Að finna mynd á netinu"
 
-     * Hér var pennateikningu notuð en það er líka hægt að nota myndir af netinu.
+    * Bættu orðinu **Silhouette** eða **Black and white** fyrir aftan leitarorðið þitt til að fá skýra, svart/hvíta mynd. 
+    * Smelltu á **Mynd (Image)**. 
+    * Smelltu svo á **Verkfæri (Tools)** 
+    * Veldu Creative Commons leyfið.
+
+    ![ ](img_grunnskolar/CreativeCommons700x189.jpg)
+
+    * Vistaðu myndina.
+
+!!!Info "Að flytja myndina inn í Inkscape"
+
+    * Opnaðu Inkscape forritið
+    * Veldu **Skrá (File)** og **Flytja inn (Import)**. 
+    * Veldu myndina og smelltu á **Opna (Open)**.
+    * Smelltu á **Í lagi (OK)**.
+
+!!!Info "Að breyta mynd í vektormynd"
+
+    * Veldu **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. 
+    * Þegar smellt er á **Uppfæra (Update)** er sýnt hvernig myndin muni líta út. Reyndar gefur það ekki alltaf nákvæma mynd en oftast virkar það sem **Preview**. 
+    * Smelltu svo á **Í lagi (Apply)**. Í sumum tölvum stendur **Virkja** en ekki **Í lagi**. 
+    * Vinstri-smelltu með músinni ofan á myndina, haltu takkanum inni og dragðu myndina til hliðar. 
+    * Smelltu til skiptis á báðar myndirnar. Þegar það stendur ,,Mynd“ (Image)  neðst á skjánum má eyða þeirri mynd. 
+
+!!! info "Það má líka nota eigin teikningar!"
+    
+     * Hér var pennateikningu notuð.
 
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_teikningAfHakarli206x155.jpg)
 
