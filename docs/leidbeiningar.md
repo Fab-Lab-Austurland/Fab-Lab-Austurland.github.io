@@ -317,21 +317,38 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 !!! info "Að útbúa mynd fyrir saumavélina"
     
-     Byrjaðu á að opna Inkscape. Fylgdu svo leiðbeiningunum [hér](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) í bók eftir Hafey Hallgrímsdóttur um hvernig eigi að búa til límmiða (fyrsta verkefnið í bókinni). Fylgdu öllum leiðbeiningum þar til þú hefur búið til vektor teikningu.
-
-     Hér var pennateikningu notuð en það er líka hægt að nota myndir af netinu.
+     * Byrjaðu á að opna Inkscape. 
      
-     Næst smellir þú á **Hlutur** og svo **Fylling og útlína**, kveiktu á **Fyllingu** og slökktu á **Lit útlínu**.
-     
-     Þú getur valið liti hér en þú munt svo stilla litina endanlega í útsaumsvélinni.
+     * Fylgdu svo leiðbeiningunum [hér](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) í bók eftir Hafey Hallgrímsdóttur um hvernig eigi að búa til límmiða (fyrsta verkefnið í bókinni). Fylgdu öllum leiðbeiningum þar til þú hefur búið til vektor teikningu.
 
-     Smelltu á **Skrá** og **Skráareiginleikar**. Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi**.
+     * Hér var pennateikningu notuð en það er líka hægt að nota myndir af netinu.
 
-
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_teikningAfHakarli206x155.jpg)
 
 
-!!! info "Búið að aðlaga stærð að innihaldi"
+!!! info "Að stilla mynd þannig að saumavélin fylli upp í svæði"
     
+     * Það er hægt að velja hvort það á bara að sauma útlínur eða hvort svæði eru fyllt. Hér er bara unnið með fyllt svæði.
+
+     * Stilltu fyrst stærðina á myndinni.
+
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_hakarl_staerdinStillt_600x577.jpg)
+
+     * Næst smellir þú á **Hlutur** og svo **Fylling og útlína**, kveiktu á **Fyllingu** og slökktu á **Lit útlínu**.
+     
+     * Það er gott að velja réttan lit en litirnir eru svo stilltir endanlega í útsaumsvélinni.
+
+     * Smelltu á **Skrá** og **Skráareiginleikar**. Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi**.
+
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_Hakarl_AdlagaStaerdAdInnihaldi_700x386.jpg)
+
+
+!!! info "Að aðlaga stærð að innihaldi"
+    
+     * Smelltu á **Skrá** og **Skráareiginleikar**. Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi**.
+
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_Hakarl_AdlagaStaerdAdInnihaldi_700x386.jpg)
+     
      Eftir að stærðin hefur verið aðlöguð að innihaldi sést að blaðsíðan passar akkúrat utan um verkefnið.
 
 
