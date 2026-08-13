@@ -290,7 +290,8 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 !!! example "Bæklingur fyrir Brother PR-680W 6-nála útsaumsvél"
     
-    Fab Lab Austurland á Brother PR-680W 6-nála útsaumsvél. Hér er [bæklingur](https://download.brother.com/welcome/doch102285/884t23_om01en.pdf) útsaumsvélina. 
+    Fab Lab Austurland á Brother PR-680W 6-nála útsaumsvél. 
+    Hér er [bæklingur](https://download.brother.com/welcome/doch102285/884t23_om01en.pdf) um útsaumsvélina. 
 
 !!! example "Dropi af olíu áður en unnið er með vélina"
     
@@ -341,7 +342,7 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
     * Veldu **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. 
     * Þegar smellt er á **Uppfæra (Update)** er sýnt hvernig myndin muni líta út. Reyndar gefur það ekki alltaf nákvæma mynd en oftast virkar það sem **Preview**. 
-    * Smelltu svo á **Í lagi (Apply)**. Í sumum tölvum stendur **Virkja** en ekki **Í lagi**. 
+    * Smelltu svo á **Í lagi (Apply)**. Í sumum tölvum stendur **Virkja**. 
     * Vinstri-smelltu með músinni ofan á myndina, haltu takkanum inni og dragðu myndina til hliðar. 
     * Smelltu til skiptis á báðar myndirnar. Þegar það stendur ,,Mynd“ (Image)  neðst á skjánum má eyða þeirri mynd. 
 
@@ -397,7 +398,7 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_litastika_685x95.jpg)
 
 
-!!! example "Aðlagaðu stærð að innihaldi"
+!!! example "Að aðlaga stærð að innihaldi"
 
      * Smelltu á **Skrá (File)** og **Skráareiginleikar (Document properties)**. 
      
@@ -405,14 +406,6 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_Hakarl_AdlagaStaerdAdInnihaldi_700x386.jpg)
 
-
-!!! example "Að aðlaga stærð að innihaldi"
-    
-     * Smelltu á **Skrá** og **Skráareiginleikar**. Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi**.
-
-    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_Hakarl_AdlagaStaerdAdInnihaldi_700x386.jpg)
-     
-     Eftir að stærðin hefur verið aðlöguð að innihaldi sést að blaðsíðan passar akkúrat utan um verkefnið.
 
 !!! example "Stillingar og forskoðun í params"
     
