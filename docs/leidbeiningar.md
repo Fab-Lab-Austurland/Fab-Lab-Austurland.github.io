@@ -409,7 +409,7 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 !!! example "Stillingar og forskoðun í params"
     
-    * Ef þú smellir á **Extensions**, **Ink/Stitch**, **Params** getu (Fill and stroke)r þú séð forskoðun og stillingarnar fyrir útsauminn.
+    * Ef þú smellir á **Extensions**, svo **Ink/Stitch** og að lokum **Params** getur þú séð forskoðun og stillingarnar fyrir útsauminn.
 
     * Það spilast eins og myndband svo það sést hvernig útsaumurinn fer fram.
 
