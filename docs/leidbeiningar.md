@@ -288,17 +288,19 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 ### Bæklingur og leiðbeiningar
 
-!!! info "Bæklingur fyrir Brother PR-680W 6-nála útsaumsvél"
+!!! example "Bæklingur fyrir Brother PR-680W 6-nála útsaumsvél"
     
     Fab Lab Austurland á Brother PR-680W 6-nála útsaumsvél. Hér er [bæklingur](https://download.brother.com/welcome/doch102285/884t23_om01en.pdf) útsaumsvélina. 
 
-!!! warning "Dropi af olíu áður en unnið er með vélina"
+!!! example "Dropi af olíu áður en unnið er með vélina"
     
-    Það er mikilvægt að setja dropa af olíu á krókinn áður en neðri tvinninn er settur í. Þetta borgar sig að gera einu sinni á dag þá daga sem á að vinna með vélina, þ.e. áður en verkið hefst.
+    * Það er mikilvægt að setja dropa af olíu á krókinn áður en neðri tvinninn er settur í. 
+    
+    * Þetta borgar sig að gera einu sinni á dag þá daga sem á að vinna með vélina, þ.e. áður en verkið hefst.
 
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_AdSmyrjaUtsaumsvelina_405x297.jpg)
 
-!!! info "Niðurhal og leiðbeiningar"
+!!! example "Niðurhal og leiðbeiningar"
     
     Hægt er að sækja Inkstitch extension [hér](https://inkstitch.org/docs/install/). 
     
@@ -306,7 +308,7 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 ### Kennslumyndbönd
 
-!!! tip "Leiðbeiningarmyndbönd fyrir saumavélina"
+!!! example "Leiðbeiningarmyndbönd fyrir saumavélina"
     
      Grunnleiðbeiningar [hér](https://www.youtube.com/watch?v=W7u4mPaRjIs).
 
@@ -428,7 +430,7 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 ### Að festa efnið á ramma
 
-!!! info "Að festa efnið"
+!!! tip "Að festa efnið"
     
     * Festið efnið í sérstakan útsaumsramma. 
     
@@ -453,7 +455,7 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 ### Að nota Offset
 
-!!! info "Að nota Offset"
+!!! success "Að nota Offset"
     
      Stundum þarf að hópa bókstafi saman á réttan hátt til að geta notað svokallað **Dynamic offset**. Hér eru leiðbeiningar frá einstaklingi, Lazur að nafni, við spurningu á [Inkscape forum](https://alpha.inkscape.org/vectors/www.inkscapeforum.com/viewtopic93da.html?t=15368). Svarið er annað í röðinni ofan frá.
 
