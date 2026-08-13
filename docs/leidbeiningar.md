@@ -354,6 +354,8 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 !!! example "Að stilla stærðina á myndinni"
     
      * Stilltu hversu stór útsaumaða myndin á að vera. 
+
+     * Ef þú vilt að hlutföllin haldist rétt þegar stærðinni er breytt skaltu hafa lásinn lokaðan (þú smellir bara á lásinn til að opna eða loka honum).
      
      * Athugaðu að stærðin er í millimetrum. 
 
@@ -364,14 +366,19 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
     
      * Það er hægt að velja hvort það á bara að sauma útlínur eða hvort svæði eru fyllt. Hér er bara unnið með fyllt svæði.
 
-     * Næst smellir þú á **Hlutur** og svo **Fylling og útlína**, kveiktu á **Fyllingu** og slökktu á **Lit útlínu**.
+     * Þá smellir þú á **Hlutur** og svo **Fylling og útlína**, kveiktu á **Fyllingu** og slökktu á **Lit útlínu**.
      
+     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_kveiktAFyllingu_350x256.jpg)
+
      * Það er gott að velja réttan lit en litirnir eru svo stilltir endanlega í útsaumsvélinni.
 
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_litastika_685x95.jpg)
 
 !!! example "Aðlagaðu stærð að innihaldi"
 
-     * Smelltu á **Skrá (File)** og **Skráareiginleikar (Document properties)**. Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi (Resise to content)**.
+     * Smelltu á **Skrá (File)** og **Skráareiginleikar (Document properties)**. 
+     
+     * Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi (Resise to content)**.
 
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_Hakarl_AdlagaStaerdAdInnihaldi_700x386.jpg)
 
@@ -384,29 +391,27 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
      
      Eftir að stærðin hefur verið aðlöguð að innihaldi sést að blaðsíðan passar akkúrat utan um verkefnið.
 
-
-
-
-!!! example "Að skoða stillingar í params"
-    
-    Ef þú smellir á **Extensions**, **Ink/Stitch**, **Params** getur þú skoðað stillingarnar fyrir útsauminn.
-
-
-
 !!! example "Stillingar og forskoðun í params"
     
-    Í params er meðal annars að finna forskoðun á útsaumsverkinu. Það spilast eins og myndband svo það sést hvernig útsaumurinn fer fram. Þarna er líka hægt að breyta ýmsum stillingum.
+    * Ef þú smellir á **Extensions**, **Ink/Stitch**, **Params** getur þú séð forskoðun og stillingarnar fyrir útsauminn.
 
+    * Það spilast eins og myndband svo það sést hvernig útsaumurinn fer fram.
 
+    * Þarna er líka hægt að breyta ýmsum stillingum.
+    
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_params_700x414.jpg)
 
 
 !!! example ".pes skrá býr til feril fyrir saumavél"
     
-    Á myndinni hér fyrir neðan sést hvernig .pes hefur búið til feril fyrir útsaumsvélina. Þarna sést hvernig tvinninn verður lagður niður.
+    * Veldu **Skrá (File)** og **Vista (Save)** til að vista allar breytingar sem þú hefur gert í Inkscape. Þessari .svg skrá getur þú svo breytt síðar ef það reynist þörf á að breyta hönnuninni.
 
+    * Veldu svo **Skrá (File)** og **Vista sem (Save as)** og veldu **.pes**
 
+    * Færðu svo þessa .pes skrá yfir á minnislykil og stingdu minnislyklinum í útsaumsvélina.
 
-
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_vistadSemPes_700x328.jpg)
+    
 ### Að búa til útlínumynd
 
 !!! info "Að búa til útlínumynd fyrir útsaumsvélina"
@@ -422,7 +427,7 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 !!! info "að vista sem .pes file"
     
-    Næst er skráin vistuð sem **.svg** skrá. Þessa skrá er hægt að nota síðar ef það reynist þörf á að breyta hönuninni. Svo er skráin vistuð sem **.pes file**. 
+    Næst er skráin vistuð sem **.svg** skrá. Þessa skrá er hægt að nota síðar ef það reynist þörf á að breyta hönnuninni. Svo er skráin vistuð sem **.pes file**. 
     
 !!! info ".pes skrá býr til útsaumsferilinn"
     
