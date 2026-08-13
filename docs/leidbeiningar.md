@@ -288,13 +288,13 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 ### Bæklingur og leiðbeiningar
 
-!!! info "Bæklingur fyrir Brother 6-nála útsaumsvél"
+!!! info "Bæklingur fyrir Brother PR-680W 6-nála útsaumsvél"
     
-    Fab Lab Austurland á Brother 6-6-nála útsaumsvél. Hér er [bæklingur](https://download.brother.com/welcome/doch102285/884t23_om01en.pdf) fyrir Brother 6-6-nála útsaumsvélina. 
+    Fab Lab Austurland á Brother PR-680W 6-nála útsaumsvél. Hér er [bæklingur](https://download.brother.com/welcome/doch102285/884t23_om01en.pdf) útsaumsvélina. 
 
 !!! warning "Dropi af olíu áður en unnið er með vélina"
     
-     Það er mikilvægt að setja dropa af olíu á krókinn áður en neðri tvinninn er settur í. Þetta borgar sig að gera einu sinni á dag þá daga sem á að vinna með vélina, þ.e. áður en verkið hefst.
+    Það er mikilvægt að setja dropa af olíu á krókinn áður en neðri tvinninn er settur í. Þetta borgar sig að gera einu sinni á dag þá daga sem á að vinna með vélina, þ.e. áður en verkið hefst.
 
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_AdSmyrjaUtsaumsvelina_405x297.jpg)
 
@@ -349,20 +349,27 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_teikningAfHakarli206x155.jpg)
 
+!!! example "Að stilla stærðina á myndinni"
+    
+     * Stilltu hversu stór útsaumaða myndin á að vera. 
+     
+     * Athugaðu að stærðin er í millimetrum. 
+
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_hakarl_staerdinStillt_600x577.jpg)
+
 
 !!! example "Að stilla mynd þannig að saumavélin fylli upp í svæði"
     
      * Það er hægt að velja hvort það á bara að sauma útlínur eða hvort svæði eru fyllt. Hér er bara unnið með fyllt svæði.
 
-     * Stilltu fyrst stærðina á myndinni.
-
-    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_hakarl_staerdinStillt_600x577.jpg)
-
      * Næst smellir þú á **Hlutur** og svo **Fylling og útlína**, kveiktu á **Fyllingu** og slökktu á **Lit útlínu**.
      
      * Það er gott að velja réttan lit en litirnir eru svo stilltir endanlega í útsaumsvélinni.
 
-     * Smelltu á **Skrá** og **Skráareiginleikar**. Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi**.
+
+!!! example "Aðlagaðu stærð að innihaldi"
+
+     * Smelltu á **Skrá (File)** og **Skráareiginleikar (Document properties)**. Þar smellir þú á lítinn hnapp merktan **Aðlaga stærð að innihaldi (Resise to content)**.
 
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_Hakarl_AdlagaStaerdAdInnihaldi_700x386.jpg)
 
