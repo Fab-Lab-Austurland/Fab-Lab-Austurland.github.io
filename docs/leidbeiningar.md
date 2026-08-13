@@ -359,20 +359,39 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
      
      * Athugaðu að stærðin er í millimetrum. 
 
-    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_hakarl_staerdinStillt_600x577.jpg)
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_hakarl_staerdinStillt_450x433.jpg)  
 
+#### Valið á milli þess að hafa fyllt svæði og/eða línur
 
-!!! example "Að stilla mynd þannig að saumavélin fylli upp í svæði"
+!!! example "Fylling/lína eða bæði"
+
+    Það er hægt að velja hvort það á bara að sauma útlínur eða hvort svæði eru fyllt. Það er einnig hægt að hafa bæði fyllingu og útlínu.
+
+!!! example "Fyllt svæði"
     
-     * Það er hægt að velja hvort það á bara að sauma útlínur eða hvort svæði eru fyllt. Hér er bara unnið með fyllt svæði.
+     * Hér má sjá hvernig fylling er notuð.
 
      * Þá smellir þú á **Hlutur** og svo **Fylling og útlína**, kveiktu á **Fyllingu** og slökktu á **Lit útlínu**.
      
      ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_kveiktAFyllingu_350x256.jpg)
 
-     * Það er gott að velja réttan lit en litirnir eru svo stilltir endanlega í útsaumsvélinni.
+     * Það er gott að velja réttan lit úr litastikunni neðst á skjánum en litirnir (tvinninn) eru svo valdir endanlega í útsaumsvélinni. 
 
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_litastika_685x95.jpg)
+
+
+!!! example "Línur notaðar"
+    
+     * Hér má sjá hvernig línur eru notaðar.
+
+     * Þá smellir þú á **Hlutur** og svo **Fylling og útlína**, slökktu á **Fyllingu** og kveiktu á **Lit útlínu**.
+     
+     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_kveiktALinu_350x361.jpg)
+
+     * Það er gott að velja réttan lit úr litastikunni neðst á skjánum en litirnir (tvinninn) eru svo valdir endanlega í útsaumsvélinni. 
+
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_litastika_685x95.jpg)
+
 
 !!! example "Aðlagaðu stærð að innihaldi"
 
@@ -401,7 +420,6 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
     
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_params_700x414.jpg)
 
-
 !!! example ".pes skrá býr til feril fyrir saumavél"
     
     * Veldu **Skrá (File)** og **Vista (Save)** til að vista allar breytingar sem þú hefur gert í Inkscape. Þessari .svg skrá getur þú svo breytt síðar ef það reynist þörf á að breyta hönnuninni.
@@ -415,23 +433,36 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 ### Að búa til útlínumynd
 
 !!! info "Að búa til útlínumynd fyrir útsaumsvélina"
+
+!!! example "Línur notaðar"
     
-     Ef þú vilt búa til útlínumynd getur þú fylgt leiðbeiningunum [hér](https://www.flr.is/_files/ugd/0ebced_1bd42ec7d77140aea1e74aec7377078f.pdf) í bókinni eftir Hafey Hallgrímsdóttur um hvernig eigi að búa til límmiða en þegar þú hefur smellt á **Hlutur** og **Fylling og útlína**, slökkt á **Fylling** og kveikt á **Litur útlínu**....þá, í stað þess að stilla **Stíll útlínu** á 0.02 gerir þú línuna þykkari. Það er gott a miða við að hafa línuna að lágmarki 1.5. Svo getur þú valið lit á línuna en þær stillingar eru svo endanlega gerðar í útsaumsvélinni síðar.
+     * Hér má sjá hvernig línur eru notaðar.
 
-  
+     * Þá smellir þú á **Hlutur** og svo **Fylling og útlína**, slökktu á **Fyllingu** og kveiktu á **Lit útlínu**.
+     
+     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_kveiktALinu_350x361.jpg)
 
+     * Það er fínt a miða við að hafa línuna að lágmarki 1.5mm.
+     
+     * Það er gott að velja réttan lit úr litastikunni neðst á skjánum en litirnir (tvinninn) eru svo valdir endanlega í útsaumsvélinni. 
+
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_litastika_685x95.jpg)
 
 !!! info "Að nota Convert line to Satin"
     
-     Næsta skref er að smella á **Extensions**, **Ink/Stitch**, **Tools: satin** og svo **Convert line to satin**.
+    * Næsta skref er að smella á **Extensions**, **Ink/Stitch**, **Tools: satin** og svo **Convert line to satin**.
 
-!!! info "að vista sem .pes file"
+    ![ ](img_leidbeiningar_utsaumsvel/Bootcamp_saumavél_ConvertLineToSatin_700x493.jpg)
+
+!!! example ".pes skrá býr til feril fyrir saumavél"
     
-    Næst er skráin vistuð sem **.svg** skrá. Þessa skrá er hægt að nota síðar ef það reynist þörf á að breyta hönnuninni. Svo er skráin vistuð sem **.pes file**. 
-    
-!!! info ".pes skrá býr til útsaumsferilinn"
-    
-    Á myndinni hér fyrir neðans sést hvernig .pes skráin bjó til feril fyrir þetta verkefni. Þráðurinn sést vel.
+    * Veldu **Skrá (File)** og **Vista (Save)** til að vista allar breytingar sem þú hefur gert í Inkscape. Þessari .svg skrá getur þú svo breytt síðar ef það reynist þörf á að breyta hönnuninni.
+
+    * Veldu svo **Skrá (File)** og **Vista sem (Save as)** og veldu **.pes**
+
+    * Færðu svo þessa .pes skrá yfir á minnislykil og stingdu minnislyklinum í útsaumsvélina.
+
+    ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_vistadSemPes_700x328.jpg)
 
 ### Að festa efnið á ramma
 
