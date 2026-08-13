@@ -371,7 +371,11 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
     
      * Hér má sjá hvernig fylling er notuð.
 
-     * Þá smellir þú á **Hlutur** og svo **Fylling og útlína**, kveiktu á **Fyllingu** og slökktu á **Lit útlínu**.
+     * Smelltu á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke).** 
+     
+     * Veldu flipann sem merktur er **Fylling** og kveiktu á **Fyllingu**.
+     
+     * Veldu flipann sem merktur er **Litur útlínu (Stroke paint)** og slökktu á **Lit útlínu**.
      
      ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_kveiktAFyllingu_350x256.jpg)
 
@@ -412,7 +416,7 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
 
 !!! example "Stillingar og forskoðun í params"
     
-    * Ef þú smellir á **Extensions**, **Ink/Stitch**, **Params** getur þú séð forskoðun og stillingarnar fyrir útsauminn.
+    * Ef þú smellir á **Extensions**, **Ink/Stitch**, **Params** getu (Fill and stroke)r þú séð forskoðun og stillingarnar fyrir útsauminn.
 
     * Það spilast eins og myndband svo það sést hvernig útsaumurinn fer fram.
 
@@ -438,7 +442,11 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
     
      * Hér má sjá hvernig línur eru notaðar.
 
-     * Þá smellir þú á **Hlutur** og svo **Fylling og útlína**, slökktu á **Fyllingu** og kveiktu á **Lit útlínu**.
+     * Þá smellir þú á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke).**
+     
+     * Veldu flipann sem merktur er **Fylling** og slökktu á **Fyllingu**.
+     
+     * Veldu flipann sem merktur er **Litur útlínu (Stroke paint)** og kveiktu á **Lit útlínu**.
      
      ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_kveiktALinu_350x361.jpg)
 
