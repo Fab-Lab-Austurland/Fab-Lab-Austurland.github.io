@@ -130,28 +130,31 @@
 
 !!!Tip "Myndband"
 
-    Myndbandið hér [hér](https://www.fabmennt.com/myndbondvinyl?wix-vod-video-id=db87a908a65e4c71819b4b41228c9e97&wix-vod-comp-id=comp-l028k5p5) sýnir hvernig límmiði er búinn til. *Leiðbeiningarnar gerði Andri Sæmundsson hjá Fab Lab Reykjavík*
+    - Myndbandið hér [hér](https://www.fabmennt.com/myndbondvinyl?wix-vod-video-id=db87a908a65e4c71819b4b41228c9e97&wix-vod-comp-id=comp-l028k5p5) sýnir hvernig límmiði er búinn til. 
+    - Leiðbeiningarnar gerði Andri Sæmundsson hjá Fab Lab Reykjavík.
 
     ![ ](img_grunnskolar/Myndband_Limmidi600x297.jpg)
 
-    Munið að vista verkefnið reglulega með því að ýta á **Skrá og Vista**  eða **File og Save**. Þið getið líka vistað með því að **halda inni CTRL takkanum og ýta á bókstafinn S**.
+   -  Munið að vista verkefnið reglulega með því að ýta á **Skrá og Vista**  eða **File og Save**. 
+   - Þið getið líka vistað með því að **halda inni CTRL takkanum og ýta á bókstafinn S**.
 
-    **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
+    - **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
 
 
 ## Verkefni 2 - Tinkercad
 
 !!! Info "Að fara inn á Tinkercad"
 
-    Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/QHGH5TJNU). Smellið á græna hnappinn (join with login code) og skrifið notendanafnið ykkar. 
+    - Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/QHGH5TJNU). 
+    - Smellið á græna hnappinn (join with login code) og skrifið notendanafnið ykkar. 
 
-    Veljið svo eitt af verkefnunum hér fyrir neðan:
+    - Veljið svo eitt af verkefnunum hér fyrir neðan:
 
 ### Kennslumyndband - Tinkercad fiktdót/hnappur
 
 !!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til hnapp-fiktdót"
 
-    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=5SBwd5mZFA8). 
+    - Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=5SBwd5mZFA8). 
 
     ![ ](img_grunnskolar/10_bekkur_Fiktdot_Spirall.jpg)
 
@@ -160,7 +163,7 @@
 
 !!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til stjörnu-fiktdót"
 
-    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=syrVd6qa8q4). 
+    - Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=syrVd6qa8q4). 
 
 
 ## Verkefni 3 - rennismellur
@@ -169,8 +172,11 @@
 
 !!!Tip "Leiðbeiningar - rennismellur"
 
-    Athugið að í leiðbeiningunum er jólatré búið til. Þið getið búið til allt mögulegt. Gætið þess bara að raufarnar, sem eiga að passa saman, séu jafnlangar.
-    Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_d9c3f8b01f3343d1b9cdb20555951928.pdf). *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
+    - Athugið að í leiðbeiningunum er jólatré búið til. 
+    - Þið getið búið til allt mögulegt. 
+    - Gætið þess bara að raufarnar, sem eiga að passa saman, séu jafnlangar.
+    - Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_d9c3f8b01f3343d1b9cdb20555951928.pdf). 
+    - Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.
 
     ![ ](img_grunnskolar/Rennismellur400x428.jpg)
 
@@ -178,7 +184,8 @@
 
 !!!Tip "Myndband"
 
-    Myndbandið [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=2cc7ba8af64649318bb3ec98d6022eaf&wix-vod-comp-id=comp-l0gj7s07) sýnir hvernig rennismellur eru búnar til. *Leiðbeiningarnar gerði Andri Sæmundsson hjá Fab Lab Reykjavík*
+    - Myndbandið [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=2cc7ba8af64649318bb3ec98d6022eaf&wix-vod-comp-id=comp-l0gj7s07) sýnir hvernig rennismellur eru búnar til. 
+    - Leiðbeiningarnar gerði Andri Sæmundsson hjá Fab Lab Reykjavík.
 
 ### Verkefni 4 - verkefni að eigin vali
 
@@ -192,13 +199,24 @@
 
 !!! bug "Fyrsta athugun"
 
-    Haltu niðri **CTRL** takkanum og snúðu músarhjólinu. Með því ertu að þysja inn þar sem músin þín er staðsett (örin á skjánum). Passaðu því að hafa músina þína á hönnuninni þinni. Sérðu línurnar þegar þú þysjar inn? Það er vegna þess að þær eru svo örmjóar að þær sjást varla þegar þær eru stilltar á 0,02mm. Ef þú sérð línurnar núna er allt í góðu og þú getur haldið áfram með það sem þú þarft að gera. 
+    - Haltu niðri **CTRL** takkanum og snúðu músarhjólinu. 
+    - Með því ertu að þysja inn þar sem músin þín er staðsett (örin á skjánum). 
+    - Passaðu því að hafa músina þína á hönnuninni þinni. 
+    - Sérðu línurnar þegar þú þysjar inn? 
+    - Það er vegna þess að þær eru svo örmjóar að þær sjást varla þegar þær eru stilltar á 0,02mm. 
+    - Ef þú sérð línurnar núna er allt í góðu og þú getur haldið áfram með það sem þú þarft að gera. 
 
 !!! bug "Athugaðu þetta ef þú sást ekkert við fyrstu athugun"
 
-    Athugaðu hvort það stendur 0,020 eða 0.000 í reitnum þar sem þú breyttir línunni. Ef það stendur 0.000 skaltu prófa að nota punkt en ekki kommu þegar þú skrifar aftur 0.020. Í sumum tölvum þarf að nota punkt. Vonandi birtist hönnunin þín við þetta.
+    - Athugaðu hvort það stendur 0,020 eða 0.000 í reitnum þar sem þú breyttir línunni. 
+    - Ef það stendur 0.000 skaltu prófa að nota punkt en ekki kommu þegar þú skrifar aftur 0.020. 
+    - Í sumum tölvum þarf að nota punkt. 
+    - Vonandi birtist hönnunin þín við þetta.
 
-    Kannski gleymdir þú bara að stilla **stíl útlínu (stroke style)** á 0,02. Kannski minnkaðir eða stækkaðir þú hönnunina eftir að búið var að stilla línuþykktina. Þá breytist þykktin á línunni. Mundu því að stilla alltaf línuþykktina upp á nýtt ef þú breytir stærðinni á einhverju í hönnuninni.
+    - Kannski gleymdir þú bara að stilla **stíl útlínu (stroke style)** á 0,02. 
+    - Kannski minnkaðir eða stækkaðir þú hönnunina eftir að búið var að stilla línuþykktina. 
+    - Þá breytist þykktin á línunni. 
+    - Mundu því að stilla alltaf línuþykktina upp á nýtt ef þú breytir stærðinni á einhverju í hönnuninni.
     
     ![ ](img_grunnskolar/StrokeStyle500x130.jpg)
 
@@ -207,23 +225,31 @@
 
 !!! bug "Fyrsta athugun"
 
-    Staðsettu músina þína aðeins fyrir ofan og til vinstri við svæðið sem þú varst að teikna á. Haltu músarhnappnum niðri og dragðu músina á ská niður yfir allt svæðið sem þú teiknaðir á. Þannig ertu að veiða formið/velja það. Smelltu svo á **Hlutur** og svo **Fylling og útlína**. Kveiktu á fyllingunni svona:
+    - Staðsettu músina þína aðeins fyrir ofan og til vinstri við svæðið sem þú varst að teikna á. 
+    - Haltu músarhnappnum niðri og dragðu músina á ská niður yfir allt svæðið sem þú teiknaðir á. 
+    - Þannig ertu að veiða formið/velja það. 
+    - Smelltu svo á **Hlutur** og svo **Fylling og útlína**. 
+    - Kveiktu á fyllingunni svona:
 
-    Birtist formið núna? Það er vegna þess að það var slökkt á fyllingunni og línunni en núna er kveikt á fyllingunni.
+    - Birtist formið núna? Það er vegna þess að það var slökkt á fyllingunni og línunni en núna er kveikt á fyllingunni.
 
     ![ ](img_grunnskolar/FyllingOn500x191.jpg)
 
 !!! bug "Athugaðu þetta ef þú sást ekkert við fyrstu athugun"
 
-    Athugaðu hvort það er búið að stilla **ógegnsæi(opacity)** á 0. Þá þarf að draga stikuna upp í 100%. Þú finnur þessa stiku neðst til hægri í Inkscape.
+    - Athugaðu hvort það er búið að stilla **ógegnsæi(opacity)** á 0. 
+    - Þá þarf að draga stikuna upp í 100%. Þú finnur þessa stiku neðst til hægri í Inkscape.
 
-    Birtist formið núna? Það er vegna þess að liturinn var gegnsær en núna er hluturinn ekki gegnsær lengur. 
+    - Birtist formið núna? Það er vegna þess að liturinn var gegnsær en núna er hluturinn ekki gegnsær lengur. 
 
     ![ ](img_grunnskolar/Opacity500x126.jpg)
 
 !!! bug "Þriðja athugun"
 
-    Athugaðu hvort það er búið að stilla **Alpha (Alpha channel)** á 0. Þá þarf að draga stikuna upp í 100%. Þú finnur þessa stiku neðst undir stillingunum fyrir liti bæði undir flipanum fyrir **fyllingu** og **lit útlínu** í Inkscape. Hún er merkt með bókstafnum **A**.
+    - Athugaðu hvort það er búið að stilla **Alpha (Alpha channel)** á 0. 
+    - Þá þarf að draga stikuna upp í 100%. 
+    - Þú finnur þessa stiku neðst undir stillingunum fyrir liti bæði undir flipanum fyrir **fyllingu** og **lit útlínu** í Inkscape. 
+    - Hún er merkt með bókstafnum **A**.
 
     ![ ](img_grunnskolar/AlphaChannel500x233.jpg)
 
@@ -231,16 +257,26 @@
 
 !!! bug "Fyrsta athugun"
 
-    Opnaðu hönnunina þína í Inkscape. Veldu hönnunina. Smelltu á **Hlutur** og svo **Fylling og útlína**. Smelltu á flipann sem er merktur sem **Stíll útlínu (stroke style)**. Athugaðu hvort línuþykktin er stillt á 0.02mm. Ef talan er önnur þarftu að breyta henni í 0.02. Svo þarftu að vista þetta aftur sem PDF skjal. Ef þú færð meldingu um að það sé ekki hægt, getur verið að gamla PDF skjalið sé enn opið. Þú þarft að loka því svo það sé hægt að vista breytingarnar.
+    - Opnaðu hönnunina þína í Inkscape. 
+    - Veldu hönnunina. Smelltu á **Hlutur** og svo **Fylling og útlína**. 
+    - Smelltu á flipann sem er merktur sem **Stíll útlínu (stroke style)**. 
+    - Athugaðu hvort línuþykktin er stillt á 0.02mm. 
+    - Ef talan er önnur þarftu að breyta henni í 0.02. 
+    - Svo þarftu að vista þetta aftur sem PDF skjal. 
+    - Ef þú færð meldingu um að það sé ekki hægt, getur verið að gamla PDF skjalið sé enn opið. 
+    - Þú þarft að loka því svo það sé hægt að vista breytingarnar.
 
     ![ ](img_grunnskolar/StrokeStyle500x130.jpg)
 
 
 !!! bug "Athugaðu þetta ef þú sást ekkert við fyrstu athugun"
 
-    Athugaðu hvort það er búið að stilla **ógegnsæi(opacity)** á 0. Þá þarf að draga stikuna upp í 100%. Þú finnur þessa stiku neðst til hægri í Inkscape.
+    - Athugaðu hvort það er búið að stilla **ógegnsæi(opacity)** á 0. 
+    - Þá þarf að draga stikuna upp í 100%. 
+    - Þú finnur þessa stiku neðst til hægri í Inkscape.
 
-    Vélin vill alls ekki nota línur með gegnsæi, jafnvel þó **ógegnsæi (opacity)** sé bara pínulítið og næstum því 100%, til dæmis stillt á 99%, er það nóg til að vélin geti ekki skorið línuna. Passaðu því að skurðarlínur séu alltaf stilltar á 100%.
+    - Vélin vill alls ekki nota línur með gegnsæi, jafnvel þó **ógegnsæi (opacity)** sé bara pínulítið og næstum því 100%, til dæmis stillt á 99%, er það nóg til að vélin geti ekki skorið línuna. 
+    - Passaðu því að skurðarlínur séu alltaf stilltar á 100%.
 
     ![ ](img_grunnskolar/StrokeStyle500x130.jpg)
 
