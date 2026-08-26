@@ -25,14 +25,17 @@
 
 !!! Tip "Íslenska eða annað tungumál"
 
-    Það er hægt að skipta um tungumál í Inkscape en **það þarf að loka forritinu þegar búið er að skipta um tungumál og opna forritið svo aftur**. Smellið á **Breyta** og svo **Kjörstillingar**. Hér fyrir neðan sjáið þið hvernig þetta lítur út þegar forritið er stillt á íslensku og þegar það er stillt á ensku.
+    - Það er hægt að skipta um tungumál í Inkscape en **það þarf að loka forritinu þegar búið er að skipta um tungumál og opna forritið svo aftur**. 
+    - Smellið á **Breyta** og svo **Kjörstillingar**. 
+    - Hér fyrir neðan sjáið þið hvernig þetta lítur út þegar forritið er stillt á íslensku og þegar það er stillt á ensku.
 
     ![Breyta - Kjörstillingar](img_grunnskolar/Breyta_Kjörstillingar310x485.jpg)           ![Edit - Preferences](img_grunnskolar/Edit_Preferences300x488.jpg)
 
 
 !!!Tip "Íslenska eða annað tungumál - framhald"
 
-    Því næst smellið þið á Viðmót (á ensku er það Interface) og þá sjáið þið hvar þið getið valið tungumál. Munið svo að loka forritinu og opna það aftur.
+    - Því næst smellið þið á Viðmót (á ensku er það Interface) og þá sjáið þið hvar þið getið valið tungumál. 
+    - Munið svo að loka forritinu og opna það aftur.
 
     ![Viðmót - íslenska](img_grunnskolar/Vidmot_Islenska300x261.jpg)            ![Interface - enska](img_grunnskolar/Interface_Language300x262.jpg)
 
@@ -48,9 +51,11 @@
 
     - Næst smellir þú á **Fab Server** táknið sem er eins og gula mappan nema með grænum lit líka.  
 
-    - Smelltu á **Grunnskólar 2025**.
+    - Smelltu á **Grunnskólar**.
 
-    - Smelltu á **Verkvit**.
+    - Smelltu á **Grunnskólar með réttu ártali**.
+
+    - Smelltu á **Verkvit með réttu ártali**.
     
     - Hægrismelltu á skjáinn og veldu **Nýtt (New)** og svo **Mappa (Folder)**
     
@@ -78,25 +83,32 @@
 
 !!!question "Hvaða aðferð finnst þér best?"
 
-    Hvort finnst þér betra að lesa leiðbeiningar eða horfa á kennslumyndband? Veldu annaðhvort **Skriflegar leiðbeiningar** eða **Kennslumyndband** hér fyrir neðan.
+    Hvort finnst þér betra að lesa leiðbeiningar eða horfa á kennslumyndband? 
+    
+    - Veldu annaðhvort **Skriflegar leiðbeiningar** eða **Kennslumyndband** hér fyrir neðan.
 
 ### Skriflegar leiðbeiningar - Límmiði
 
 !!! info "Skriflegar leiðbeiningar um gerð límmiða"
 
-    Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). Lesið samt fyrst upplýsingarnar hér fyrir neðan. *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
+    - Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). 
+    - Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.
+    - Lesið einnig um mikilvæg atriði hér fyrir neðan.
 
 !!!Tip "Tvö mikilvæg atriði"
 
-    Munið að vista verkefnið reglulega með því að ýta á **Skrá og Vista**  eða **File og Save**. Þið getið líka vistað með því að **halda inni CTRL takkanum og ýta á bókstafinn S**
+    - Munið að vista verkefnið reglulega með því að ýta á **Skrá og Vista**  eða **File og Save**. 
+    - Þið getið líka vistað með því að **halda inni CTRL takkanum og ýta á bókstafinn S**
 
-    **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
+    - **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
 
 !!!Tip "Eitt mikilvæg atriði til viðbótar"
 
     Þegar hönnunin er tilbúin er blaðsíðan oft stærri en það sem þið ætlið að búa til. Þá er gott að minnka blaðsíðuna til að efnið nýtist betur. Það gerið þið svona:
 
-    Smellið á **Skrá (File) og Skráareiginleikar (Document Properties)**. Það er líka hægt að hægrismella á skjáinn og velja **Eiginleikar skjals (Document properties)**. Smellið svo á litla hnappinn hægra megin við **Aðlaga stærð að innihaldi (Resize to content).** Þá minnkar hvíta svæðið þannig að það passar nákvæmlega utan um hönnunina. Svo þarf að stækka það aðeins með því að smella þrisvar sinnum á báða plúsana.
+    - Smellið á **Skrá (File) og Skráareiginleikar (Document Properties)**. 
+    - Það er líka hægt að hægrismella á skjáinn og velja **Eiginleikar skjals (Document properties)**. 
+    - Smellið svo á litla hnappinn hægra megin við **Aðlaga stærð að innihaldi (Resize to content).** Þá minnkar hvíta svæðið þannig að það passar nákvæmlega utan um hönnunina. - Svo þarf að stækka það aðeins með því að smella þrisvar sinnum á báða plúsana.
 
     ![](img_grunnskolar/Picture7.png)       ![ ](img_grunnskolar/Picture8.png)
 
@@ -114,15 +126,17 @@
 
     ![ ](img_grunnskolar/Myndband_Limmidi600x297.jpg)
 
-    Munið að vista verkefnið reglulega með því að ýta á **Skrá og Vista**  eða **File og Save**. Þið getið líka vistað með því að **halda inni CTRL takkanum og ýta á bókstafinn S.**
+    - Munið að vista verkefnið reglulega með því að ýta á **Skrá og Vista**  eða **File og Save**. 
+    - Þið getið líka vistað með því að **halda inni CTRL takkanum og ýta á bókstafinn S.**
 
-    **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
+    - **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
 
 ## Verkefni 2 - Tinkercad
 
 !!! Info "Að fara inn á Tinkercad"
 
-    Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/GPTTPEYDR). Smellið á græna hnappinn (join with login code) og skrifið notendanafnið ykkar. 
+    - Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/8RL9CGADL). 
+    - Smellið á græna hnappinn (join with login code) og skrifið notendanafnið ykkar. 
 
 ### Skriflegar leiðbeiningar - Tinkercad
 
@@ -144,15 +158,18 @@
 
 !!!Tip "Leiðbeiningar um gerð lyklakippu"
 
-    Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/leidbeiningargeisla). *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
+    - Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/leidbeiningargeisla). 
+    - Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.
 
-    **Athugið að þið þurfið að hafa gatið stærra en það sem gert er í leiðbeiningunum svo lyklakippuhringirnir okkar passi í það. Hafið það 4mm en ekki 3mm.** 
+    - **Athugið að þið þurfið að hafa gatið stærra en það sem gert er í leiðbeiningunum svo lyklakippuhringirnir okkar passi í það. 
+    - Hafið það 4mm en ekki 3mm.** 
 
 ### Kennslumyndband - lyklakippa
 
 !!! Tip "Kennslumyndband um gerð lyklakippu"
 
-    Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=7de189c998dd4df5897be38b1ab4b79c&wix-vod-comp-id=comp-l0gj7rx0). *Leiðbeiningarnar gerði Andri Sæmundsson hjá Fab Lab Reykjavík.*
+    - Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=7de189c998dd4df5897be38b1ab4b79c&wix-vod-comp-id=comp-l0gj7rx0). 
+    - Leiðbeiningarnar gerði Andri Sæmundsson hjá Fab Lab Reykjavík.
 
     ![ ](img_grunnskolar/Lyklakippa1_300x225.jpg)       ![ ](img_grunnskolar/Lyklakippa2_300x225.jpg)
 
