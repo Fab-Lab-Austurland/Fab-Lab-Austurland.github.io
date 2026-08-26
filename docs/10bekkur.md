@@ -34,7 +34,8 @@
 
 !!!Tip "Íslenska eða annað tungumál - framhald"
 
-    Því næst smellið þið á Viðmót (á ensku er það Interface) og þá sjáið þið hvar þið getið valið tungumál. Munið svo að loka forritinu og opna það aftur.
+    * Því næst smellið þið á Viðmót (á ensku er það Interface) og þá sjáið þið hvar þið getið valið tungumál. 
+     * Munið svo að loka forritinu og opna það aftur.
 
     ![Viðmót - íslenska](img_grunnskolar/Vidmot_Islenska300x261.jpg)            ![Interface - enska](img_grunnskolar/Interface_Language300x262.jpg)
 
@@ -50,9 +51,11 @@
 
     - Næst smellir þú á **Fab Server** táknið sem er eins og gula mappan nema með grænum lit líka.  
 
-    - Smelltu á **Grunnskólar 2025**.
+    - Smelltu á **Grunnskólar.**
 
-    - Smelltu á **Verkvit**.
+    - Smelltu á **Grunnskólar með réttu ártali**.
+
+    - Smelltu á **Verkvit með réttu ártali**.
     
     - Hægrismelltu á skjáinn og veldu **Nýtt (New)** og svo **Mappa (Folder)**
     
@@ -86,32 +89,40 @@
 
 !!!question "Hvaða aðferð finnst þér best?"
 
-    Hvort finnst þér betra að lesa leiðbeiningar eða horfa á kennslumyndband? Veldu annaðhvort **Skriflegar leiðbeiningar** eða **Kennslumyndband** hér fyrir neðan.
+    Hvort finnst þér betra að lesa leiðbeiningar eða horfa á kennslumyndband? 
+
+    - Veldu annaðhvort **Skriflegar leiðbeiningar** eða **Kennslumyndband** hér fyrir neðan.
 
 ### Skriflegar leiðbeiningar - Límmiði
 
 !!! info "Skriflegar leiðbeiningar um gerð límmiða"
 
-    Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). Lesið samt fyrst upplýsingarnar hér fyrir neðan. *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
+    Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). - Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.
+    - Lesið líka um mikilvæg atriði hér fyrir neðan.
 
 !!!Tip "Tvö mikilvæg atriði"
 
-    Munið að vista verkefnið reglulega með því að ýta á **Skrá og Vista**  eða **File og Save**. Þið getið líka vistað með því að **halda inni CTRL takkanum og ýta á bókstafinn S**
+    - Munið að vista verkefnið reglulega með því að ýta á **Skrá og Vista**  eða **File og Save**. Þið getið líka vistað með því að **halda inni CTRL takkanum og ýta á bókstafinn S**
 
-    **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
+    - **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
 
 !!!Tip "Eitt mikilvæg atriði til viðbótar"
 
-    Þegar hönnunin er tilbúin er blaðsíðan oft stærri en það sem þið ætlið að búa til. Þá er gott að minnka blaðsíðuna til að efnið nýtist betur. Það gerið þið svona:
+    - Þegar hönnunin er tilbúin er blaðsíðan oft stærri en það sem þið ætlið að búa til. Þá er gott að minnka blaðsíðuna til að efnið nýtist betur. Það gerið þið svona:
 
-    Smellið á **Skrá (File) og Skráareiginleikar (Document Properties)**. Það er líka hægt að hægrismella á skjáinn og velja **Eiginleikar skjals (Document properties)**. Smellið svo á litla hnappinn hægra megin við **Aðlaga stærð að innihaldi (Resize to content).** Þá minnkar hvíta svæðið þannig að það passar nákvæmlega utan um hönnunina. Svo þarf að stækka það aðeins með því að smella þrisvar sinnum á báða plúsana.
+    - Smellið á **Skrá (File) og Skráareiginleikar (Document Properties)**. 
+    - Það er líka hægt að hægrismella á skjáinn og velja **Eiginleikar skjals (Document properties)**. 
+    - Smellið svo á litla hnappinn hægra megin við **Aðlaga stærð að innihaldi (Resize to content).** 
+    - Þá minnkar hvíta svæðið þannig að það passar nákvæmlega utan um hönnunina. 
+    - Svo þarf að stækka það aðeins með því að smella þrisvar sinnum á báða plúsana.
 
     ![](img_grunnskolar/Picture7.png)       ![ ](img_grunnskolar/Picture8.png)
 
 
 !!!Tip "Mismundandi útlit í tölvum"
 
-    Stundum lítur þetta öðruvísi út í tölvum (sjá hér fyrir neðan). Þá þarf að skrifa 1 í alla fjóra gluggana og smella svo á ,,Laga síðu að teikningu eða vali“ (Resize page to content).
+    - Stundum lítur þetta öðruvísi út í tölvum (sjá hér fyrir neðan). 
+    - Þá þarf að skrifa 1 í alla fjóra gluggana og smella svo á ,,Laga síðu að teikningu eða vali“ (Resize page to content).
 
     ![ ](img_grunnskolar/Picture9_600x159.jpg)
 
@@ -132,7 +143,7 @@
 
 !!! Info "Að fara inn á Tinkercad"
 
-    Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/DA2REYMTH). Smellið á græna hnappinn (join with login code) og skrifið notendanafnið ykkar. 
+    Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/QHGH5TJNU). Smellið á græna hnappinn (join with login code) og skrifið notendanafnið ykkar. 
 
     Veljið svo eitt af verkefnunum hér fyrir neðan:
 
