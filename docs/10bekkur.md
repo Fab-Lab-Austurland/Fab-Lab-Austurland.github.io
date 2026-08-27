@@ -95,7 +95,7 @@
 
 ### Skriflegar leiðbeiningar - Límmiði
 
-!!! info "Skriflegar leiðbeiningar um gerð límmiða"
+!!! tip "Skriflegar leiðbeiningar um gerð límmiða"
 
     Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). - Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.
     - Lesið líka um mikilvæg atriði hér fyrir neðan.
