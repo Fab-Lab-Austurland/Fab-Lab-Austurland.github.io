@@ -117,7 +117,7 @@
 
 !!!Success "Vinnusvæðið aðlagað og tilbúið"
 
-    * Nú sjáið þið að vinnusvæðið(hvíta blaðsíðan) er bara undir myndinni.
+    * Nú sjáið þið að vinnusvæðið (hvíta blaðsíðan) er bara undir myndinni.
 
     ![ ](img_framhaldsskoli/FABL1_Resized700x303.jpg)
 
