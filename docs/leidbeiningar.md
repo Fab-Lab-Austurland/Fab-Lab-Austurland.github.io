@@ -280,7 +280,8 @@
 
 !!!Success "Að vista verkefnið"
 
-    Veldu **File** og svo **Save As**. Vistaðu svo verkefnið sem **.pdf** skjal.
+    - Veldu **File** og svo **Save As**. 
+    - Vistaðu svo verkefnið sem **.pdf** skjal.
 
 ## Laserskurðarvél (geislaskeri) - rasterað eða skorið úr plexígleri, timbri og fleiru
 
