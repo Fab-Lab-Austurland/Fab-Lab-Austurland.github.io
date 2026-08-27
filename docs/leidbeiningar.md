@@ -227,6 +227,61 @@
 
     ![ ](img_grunnskolar/LitirFormSaman348x300.jpg)
 
+#### Að búa til límmiða í BN-20 litaprentaranum
+
+!!!Success "Að finna mynd á netinu"
+
+    * Leitaðu að einhverju spennandi á netinu. 
+    * Smelltu á **Mynd (Image)**. 
+    * Smelltu svo á **Verkfæri (Tools)** 
+    * Veldu Creative Commons leyfið.
+
+    ![ ](img_framhaldsskoli/FABL1_CreativeCommons700x128.jpg)
+
+    * Vistaðu myndina í möppunni þinni.
+
+!!!Success "Að flytja myndina inn í Inkscape"
+
+    * Opnaðu Inkscape forritið
+    * Veldu **Skrá (File)** og **Flytja inn (Import)**. 
+    * Veldu myndina og smelltu á **Opna (Open)**.
+    * Smelltu á **Í lagi (OK)**.
+
+!!!Success "Að stilla stærðina á myndinni"
+
+    * Veldu myndina með því að smella á hana.
+    * Hafðu lásinn fyrir ofan myndina lokaðan.
+    * Stilltu stærðina á myndinni. Hér er hæðin til dæmis stillt á 50mm.
+
+    ![ ](img_framhaldsskoli/SizeOfImage300x442.jpg)
+
+!!!Success "Að láta vinnusvæðið (blaðsíðuna) passa utan um myndina - skref 1"
+
+    Þegar hönnunin er tilbúin er blaðsíðan oft stærri en það sem þið ætlið að búa til. Þá er gott að minnka blaðsíðuna til að efnið nýtist betur. Það gerið þið svona:
+
+    * Hægrismellið á skjáinn og veljið **Eiginleikar skjals (Document properties)**. 
+    * Ef það virkar ekki er hægt að smella á **Skrá (File) og Skráareiginleikar (Document Properties)**. 
+
+    ![ ](img_framhaldsskoli/FABL1_RightClickDocumentProperties700x254.jpg)
+
+   
+!!!Success "Að láta vinnusvæðið (hvítu blaðsíðuna) passa undir myndina - skref 2"
+
+    * Smellið svo á litla hnappinn hægra megin við **Aðlaga stærð að innihaldi (Resize to content).** Þá minnkar hvíta svæðið þannig að það passar nákvæmlega utan um hönnunina. 
+
+    ![ ](img_framhaldsskoli/FABL1_ResizeToContent700x296.jpg)
+
+
+!!!Success "Vinnusvæðið aðlagað og tilbúið"
+
+    * Nú sjáið þið að vinnusvæðið (hvíta blaðsíðan) er bara undir myndinni.
+
+    ![ ](img_framhaldsskoli/FABL1_Resized700x303.jpg)
+
+!!!Success "Að vista verkefnið"
+
+    Veldu **File** og svo **Save As**. Vistaðu svo verkefnið sem **.pdf** skjal.
+
 ## Laserskurðarvél (geislaskeri) - rasterað eða skorið úr plexígleri, timbri og fleiru
 
 !!! Example "Leiðbeiningar um gerð glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira"
@@ -383,7 +438,6 @@ Hér er unnið með ,,Extension" í Inskscape sem kallast Inkstitch. Notuð er t
      * Það er gott að velja réttan lit úr litastikunni neðst á skjánum en litirnir (tvinninn) eru svo valdir endanlega í útsaumsvélinni. 
 
     ![ ](img_leidbeiningar_utsaumsvel/leidbeiningar_utsaumsvel_litastika_685x95.jpg)
-
 
 !!! example "Línur notaðar"
     
