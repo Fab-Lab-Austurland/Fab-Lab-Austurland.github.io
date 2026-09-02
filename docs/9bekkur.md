@@ -191,7 +191,7 @@
 
 !!! Info "Að fara inn á Tinkercad"
 
-    - Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/8RL9CGADL). 
+    - Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/YK3CFJXJZ). 
     - Smellið á græna hnappinn (join with login code) og skrifið notendanafnið ykkar. 
 
 ### Skriflegar leiðbeiningar - Tinkercad
