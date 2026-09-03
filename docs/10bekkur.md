@@ -222,6 +222,14 @@
     - Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=syrVd6qa8q4). 
 
 
+!!! Info "Einföld kennslumyndbönd"
+
+    - Hér eru mörg góð kennslumyndbönd sem sýna á einfaldan hátt hvernig hægt er að hanna í Tinkercad.
+    - Smellið á hlekkinn [hér](https://snillismidja.is/myndskeid/). 
+    - Leiðbeiningarnar gerði Lísbet Guðný Þórarinsdóttir. 
+
+    ![ ](img_index/Tinkercad_MyndbondASnillismidja_Lisbet_600x527.jpg)
+
 ## Verkefni 3 - rennismellur
 
 ### Skriflegar leiðbeiningar - rennismellur

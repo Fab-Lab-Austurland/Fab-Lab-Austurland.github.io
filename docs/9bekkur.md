@@ -202,11 +202,28 @@
 
 ### Kennslumyndband - Tinkercad
 
-!!! Info "Kennslumyndband"
+!!! Info "Kennslumyndband- kofi"
 
     Smellið á hlekkinn [hér](https://www.fabmennt.com/myndbond3d?wix-vod-video-id=9c98f19cb0ac42ad81e5196e1a787ef5&wix-vod-comp-id=comp-l0qim0ip). Þetta er sama verkefnið og er í bókinni.
 
     ![ ](img_grunnskolar/Tinkercad_Hus.jpg)
+
+!!! Info "Kennslumyndband - nafnspjald"
+
+    Þið getið líka lært að búa til nafnspjald.
+    Smellið á hlekkinn [hér](https://youtu.be/f1iI1OMD6Q0). 
+
+    ![ ](img_grunnskolar/Tinkercad_nafnspjald_Lisbet_600x275.jpg)  
+    - Leiðbeiningarnar gerði Lísbet Guðný Þórarinsdóttir. 
+
+!!! Info "Einföld kennslumyndbönd"
+
+    - Hér eru mörg góð kennslumyndbönd sem sýna á einfaldan hátt hvernig hægt er að hanna í Tinkercad.
+    - Smellið á hlekkinn [hér](https://snillismidja.is/myndskeid/). 
+    - Leiðbeiningarnar gerði Lísbet Guðný Þórarinsdóttir. 
+
+    ![ ](img_index/Tinkercad_MyndbondASnillismidja_Lisbet_600x527.jpg)
+
 
 ## Verkefni 3 - lyklakippa
 
