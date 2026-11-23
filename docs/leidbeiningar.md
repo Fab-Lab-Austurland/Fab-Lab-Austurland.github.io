@@ -1,6 +1,15 @@
 # Leiðbeiningar um notkun hugbúnaðar og tækjabúnaðar
 
+
+!!!Info "Inkscape forritið"
+
+    Hér finnur þú leiðbeiningar fyrir helstu tæki og hugbúnað í Fab Lab smiðju Austurlands.
+
 ## Inkscape 
+
+!!!Info "Inkscape forritið"
+
+    Smelltu [hér](inkscape.md) til að fá leiðbeiningar um Inkscape forritið.
 
 ### Að opna og nota Inkscape forritið
 
